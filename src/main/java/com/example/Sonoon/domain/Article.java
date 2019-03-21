@@ -3,6 +3,7 @@ package com.example.Sonoon.domain;
 import javax.persistence.*;
 
 @Entity
+@Table(name = "article")
 public class Article {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)

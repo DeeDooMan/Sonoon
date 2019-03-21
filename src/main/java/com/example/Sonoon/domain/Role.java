@@ -1,9 +1,13 @@
 package com.example.Sonoon.domain;
+
 import org.springframework.security.core.GrantedAuthority;
-public class Role implements GrantedAuthority{
-    USER,EDITOR,MANAGER;
+
+public enum Role implements GrantedAuthority {
+    USER, EDITOR, ADMIN;
+
     @Override
-    public String getAuthority(){
+    public String getAuthority() {
         return name();
     }
 }
+

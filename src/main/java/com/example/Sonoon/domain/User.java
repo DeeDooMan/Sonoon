@@ -46,6 +46,10 @@ public class User implements UserDetails {
         return roles.contains(Role.ADMIN);
     }
 
+    public boolean isEditor() {
+        return roles.contains(Role.EDITOR);
+    }
+
     public Long getId() {
         return id;
     }

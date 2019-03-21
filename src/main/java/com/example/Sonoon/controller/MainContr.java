@@ -5,7 +5,6 @@ import com.example.Sonoon.domain.Article;
 import com.example.Sonoon.repos.ArticleRepo;
 import com.example.Sonoon.repos.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -22,10 +21,6 @@ public class MainContr {
     @Autowired
     private UserRepo userRepo;
 
-    //Спринг ишет upload.path в пропертис и подставляет значение в uploadPath
-    @Value("${upload.path}")
-    private String uploadPath;
-
     //Убрали лишнее так как на главной странице ничего не принемаем
     @GetMapping("/")
     public String greeting(
@@ -38,7 +33,7 @@ public class MainContr {
         Iterable<Article> articles;
 
         if (filter != null && !filter.isEmpty()) {
-            articles = articleRepo.findByZagolovok(filter);
+            articles = articleRepo.findByZagalovok(filter);
         }
         //Если пользователь ничего не вводит,
         //или вводит не корректный запрос то выводится весь список

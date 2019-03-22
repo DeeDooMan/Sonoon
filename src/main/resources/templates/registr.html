@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="container">
+
+    <div class="row">
+        <div class="col-lg-8">
+            <div class="panel panel-primary shadow-effect">
+                <div class="panel-body">
+                    <div class="vertical-divider">
+                        <h3>
+                            Social Media for sign up
+                        </h3>
+                        <a class="btn btn-primary" href="#">
+                            <i class="fa fa-facebook"></i> Sign in with Facebook
+                        </a>
+                        <br/>
+                        <button class="btn btn-danger">
+                            <i class="fa fa-google-plus"></i>
+                            Sign in with Google+
+                        </button>
+                    </div>
+                    <div class="other-half">
+                        <h3>
+                            Register with email Id
+                        </h3>
+                        <form role="form" id="registerForm">
+                            <div class="form-group">
+                                <input type="email" class="form-control" id="email" placeholder="Enter email id" autocomplete="off" />
+                            </div>
+                            <div class="form-group">
+                                <input type="password" class="form-control" id="pwd" placeholder="Enter desired password">
+                            </div>
+                            <button type="submit" class="btn btn-primary">Register</button>
+                        </form>
+                    </div>
+                </div>
+                <div class="panel-footer">
+                    <p class="text-muted">The code for facebook and google + will soon be available over git</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <button class="btn btn-primary" id="profileView">View User Profile Form</button>
+    <br/><br/><br/>
+    <div class="row user-profile" id="userInformation">
+        <div class="col-sm-4">
+            <div class="img-holder">
+                <img src="http://placehold.it/550x550" class="img-responsive img-circle" />
+            </div>
+            <div class="">
+                <a href="#" class="btn btn-danger" role="button">
+                    <span class="glyphicon glyphicon-off"></span> LogOut
+                </a>
+
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="jumbotron shadow-effect" id="basicInformation">
+                <p> <span class="label label-default">Full Name</span></p>
+                <p><span class="label label-default">First Name</span></p>
+                <p><span class="label label-default">Last Name</span></p>
+                <p><span class="label label-default">Email Id</span></p>
+                <p><span class="label label-default">Mobile Number</span></p>
+                <span class="edit-options"><a class="btn btn-default" href="#"><span class="glyphicon glyphicon-pencil" title="Edit your profile"></span></a><a class="btn btn-default" href="#"><span class="glyphicon glyphicon-trash" title="Delete my account"></span><a/></span>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

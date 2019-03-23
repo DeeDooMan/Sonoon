@@ -6,76 +6,58 @@
     <meta charset="UTF-8">
     <title>Title</title>
 </head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Register</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/main.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+</head>
 <body>
+
+
 <div class="container">
-
-    <form class="form" th:action="@{/registration}" method="post" th:object="${user}">
-    <div class="row">
-        <div class="col-lg-8">
-            <div class="panel panel-primary shadow-effect">
-                <div class="panel-body">
-                    <div class="vertical-divider">
-                        <h3>
-                            Social Media for sign up
-                        </h3>
-                        <a class="btn btn-primary" href="#">
-                            <i class="fa fa-facebook"></i> Sign in with Facebook
-                        </a>
-                        <br/>
-                        <button class="btn btn-danger">
-                            <i class="fa fa-google-plus"></i>
-                            Sign in with Google+
-                        </button>
-                    </div>
-                    <div class="other-half">
-                        <h3>
-                            Register with email Id
-                        </h3>
-                        <form role="form" th:action="@{/registration}" id="registerForm">
-                            <div class="form-group">
-                                <input type="email" class="form-control" id="email" placeholder="Enter email id" autocomplete="off" />
-                            </div>
-                            <div class="form-group">
-                                <input type="password" class="form-control" id="pwd" placeholder="Enter desired password">
-                            </div>
-                            <button type="submit" class="btn btn-primary">Register</button>
-                        </form>
-                    </div>
-                </div>
-                <div class="panel-footer">
-                    <p class="text-muted">The code for facebook and google + will soon be available over git</p>
-                </div>
+    <div class="loginDiv">
+        <h2>Register yourself</h2>
+        <form action="/registration" method="POST">
+            <div class="form-group">
+                <label for="FirstName">First Name:</label>
+                <input type="text" name="signupFName" class="form-control" id="FirstName" placeholder="Enter First Name">
             </div>
-        </div>
-
+            <div class="form-group">
+                <label for="LastName">Last Name:</label>
+                <input type="text" name="signupLName" class="form-control" id="LastName" placeholder="Enter Last Name">
+            </div>
+            <div class="form-group">
+                <label for="Phone">Phone:</label>
+                <input type="text" name="signupPhone" class="form-control" id="Phone" placeholder="Enter Phone number">
+            </div>
+            <div class="form-group">
+                <label class="radio-inline">
+                    <input type="radio" value="user" name="usertype" checked="true"> User
+                </label>
+                <label class="radio-inline">
+                    <input type="radio" value="admin" name="usertype"> Admin
+                </label>
+            </div>
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" name="signupEmail" class="form-control" id="email" placeholder="Enter email">
+            </div>
+            <div class="form-group">
+                <label for="pwd">Password:</label>
+                <input type="password" name="signupPassword" class="form-control" id="pwd" placeholder="Enter password">
+            </div>
+            <button type="submit" class="btn btn-default">Submit</button>
+            <br>
+            <br>
+        </form>
     </div>
-
-    <button class="btn btn-primary" id="profileView">View User Profile Form</button>
-    <br/><br/><br/>
-    <div class="row user-profile" id="userInformation">
-        <div class="col-sm-4">
-            <div class="img-holder">
-                <img src="http://placehold.it/550x550" class="img-responsive img-circle" />
-            </div>
-            <div class="">
-                <a href="#" class="btn btn-danger" role="button">
-                    <span class="glyphicon glyphicon-off"></span> LogOut
-                </a>
-
-            </div>
-        </div>
-        <div class="col-sm-6">
-            <div class="jumbotron shadow-effect" id="basicInformation">
-                <p> <span class="label label-default">Full Name</span></p>
-                <p><span class="label label-default">First Name</span></p>
-                <p><span class="label label-default">Last Name</span></p>
-                <p><span class="label label-default">Email Id</span></p>
-                <p><span class="label label-default">Mobile Number</span></p>
-                <span class="edit-options"><a class="btn btn-default" href="#"><span class="glyphicon glyphicon-pencil" title="Edit your profile"></span></a><a class="btn btn-default" href="#"><span class="glyphicon glyphicon-trash" title="Delete my account"></span><a/></span>
-            </div>
-        </div>
-    </div>
-    </form>
 </div>
 </body>
 </html>

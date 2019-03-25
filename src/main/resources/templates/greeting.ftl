@@ -10,7 +10,7 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="/static/1.jpg" alt="First slide">
+      <img class="d-block w-100" src="/static/1.png" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>Рады приветствовать вас!</h5>
             <p>Это простое информационное веб-приложение о Кыргызкой Республике</p>

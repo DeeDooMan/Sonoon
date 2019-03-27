@@ -3,6 +3,7 @@ package com.example.Sonoon.controller;
 import com.example.Sonoon.domain.Role;
 import com.example.Sonoon.domain.User;
 import com.example.Sonoon.repos.UserRepo;
+import com.example.Sonoon.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -14,7 +15,7 @@ import java.util.Map;
 @Controller
 public class RegistrationContr {
     @Autowired
-    private UserRepo userRepo;
+    private UserService userService;
 
     @GetMapping("/registration")
     public String registration(){
@@ -23,21 +24,11 @@ public class RegistrationContr {
 
     @PostMapping("/registration")
     public String addUser(User user, Map<String, Object> model){
-        User userFromDb = userRepo.findByUsername(user.getUsername());
-
-        //Сообщаем если такой пользователь есть в базе данных
-        if (userFromDb != null){
+        if (!userService.addUser(user)){
             model.put("message", "Данное имя пользователя не доступно!");
             return "registration";
         }
 
-        user.setActive(true);
-        //На вход ожидается коллекция в виде Set,
-        //но так как у нас всего одно значение мы можем
-        //использовать шорткат, из стандартной библиотеки,
-        //который создает set с одним единственным значением
-        user.setRoles(Collections.singleton(Role.ADMIN));
-        userRepo.save(user);
         return "redirect:/login";
     }
 }

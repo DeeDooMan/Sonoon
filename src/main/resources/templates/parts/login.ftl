@@ -12,6 +12,14 @@
             <input autocomplete="off" type="password" name="password" class="form-control" placeholder="Пароль" />
         </div>
     </div>
+    <#if isRegisterForm>
+    <div  class="form-group row">
+            <label class="col-sm-2 col-form-label">Email: </label>
+            <div class="col-sm-6">
+                <input autocomplete="off" type="email" name="email" class="form-control" placeholder="come@come.com" />
+            </div>
+        </div>
+        </#if>
     <input type="hidden" name="_csrf" value="${_csrf.token}" />
     <#if !isRegisterForm><a class="btn btn-primary" href="/registration">Добавить пользователя</a></#if>
     <button class="btn btn-primary" type="submit"><#if isRegisterForm>Создать<#else>Войти</#if></button>

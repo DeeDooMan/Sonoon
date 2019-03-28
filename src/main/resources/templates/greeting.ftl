@@ -9,13 +9,7 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
   </ol>
   <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="/static/1.jpg" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
-        <h5>Рады приветствовать вас!</h5>
-            <p>Это простое информационное веб-приложение о Кыргызкой Республике</p>
-            <p>(для более подробной информации свайпните направо)</p>
-            </div>
+
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/static/2.jpg" alt="Second slide">

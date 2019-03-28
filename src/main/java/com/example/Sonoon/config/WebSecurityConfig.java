@@ -1,7 +1,12 @@
 package com.example.Sonoon.config;
 
+import com.example.Sonoon.domain.UserGoogle;
+import com.example.Sonoon.repos.UserRepoGoogle;
 import com.example.Sonoon.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth2Sso;
+import org.springframework.boot.autoconfigure.security.oauth2.resource.PrincipalExtractor;
+import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
 import org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity;
@@ -12,6 +17,7 @@ import org.springframework.security.crypto.password.NoOpPasswordEncoder;
 
 @Configuration
 @EnableWebSecurity
+@EnableOAuth2Sso
 @EnableGlobalMethodSecurity(prePostEnabled = true)
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
@@ -22,8 +28,8 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
         http
                 .authorizeRequests() //Авторизация
-                .antMatchers("/", "/registration", "/static/**").permitAll() //Для главной страницы, в которую заходит пользователь мы разрешаем полный доступ
-                .anyRequest().authenticated() //Для всех остальных запросов мы требуем авторизацию
+                    .antMatchers("/", "/registration", "/static/**").permitAll() //Для главной страницы, в которую заходит пользователь мы разрешаем полный доступ
+                .anyRequest().authenticated()//Для всех остальных запросов мы требуем авторизацию
                 .and()
                 .formLogin() //Включаем формЛогин
                 .loginPage("/login") //Указываем что логин пэйдж находится по пути \login
@@ -33,6 +39,12 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .permitAll(); //Разрешаем пользоваться всем
     }
 
+    @Bean
+    public PrincipalExtractor principalExtractor(UserRepoGoogle userRepoGoogle){
+        return map -> {
+            return new UserGoogle();
+        };
+    }
 
     @Override
     protected void configure(AuthenticationManagerBuilder auth) throws Exception {

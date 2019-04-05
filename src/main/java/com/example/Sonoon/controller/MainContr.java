@@ -1,15 +1,12 @@
 package com.example.Sonoon.controller;
 
 
-import com.example.Sonoon.domain.Article;
 import com.example.Sonoon.repos.ArticleRepo;
 import com.example.Sonoon.repos.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.Map;
 
@@ -28,23 +25,7 @@ public class MainContr {
         return "greeting";
     }
 
-    @GetMapping("/main")
-    public String main(@RequestParam(required = false, defaultValue = "") String filter, Model model) {
-        Iterable<Article> articles;
 
-        if (filter != null && !filter.isEmpty()) {
-            articles = articleRepo.findByZagalovok(filter);
-        }
-        //Если пользователь ничего не вводит,
-        //или вводит не корректный запрос то выводится весь список
-        else {
-            articles = articleRepo.findAll();
-        }
-
-        model.addAttribute("articles", articles);
-        model.addAttribute("filter", filter);
-        return "main";
-    }
 
     @GetMapping("/deleteArticle/{id}")
     public String deleteArticle(@PathVariable("id") int id) {

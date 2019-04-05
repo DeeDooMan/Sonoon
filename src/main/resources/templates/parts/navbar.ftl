@@ -13,7 +13,7 @@
             </li>
             <#if user??>
             <li class="nav-item">
-                <a class="nav-link" href="/main">Предложения</a>
+                <a class="nav-link" href="/articles">Предложения</a>
             </li>
             <li class="nav-item">
              <a class="nav-link" href="/user-articles/${currentUserId}">Мои предложения</a>

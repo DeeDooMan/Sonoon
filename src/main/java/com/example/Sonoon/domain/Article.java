@@ -11,8 +11,11 @@ public class Article {
     private String text;
     private String zagalovok;
     private User editor;
+    private String filename;
 
-
+    public void setFilename(String filename) {
+        this.filename = filename;
+    }
 
     public Article() {
     }

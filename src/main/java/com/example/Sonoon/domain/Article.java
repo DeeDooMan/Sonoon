@@ -10,14 +10,15 @@ public class Article {
     private Integer id;
     private String text;
     private String zagalovok;
+    private String categories;
     private User editor;
 
-
+    private String filename;
 
     public Article() {
     }
 
-    public Article(String text, String zagalovok, User editor) {
+    public Article(String text, String zagalovok,User editor) {
         this.text = text;
         this.zagalovok = zagalovok;
         this.editor = editor;
@@ -54,5 +55,21 @@ public class Article {
 
     public void setEditor(User editor) {
         this.editor = editor;
+    }
+
+    public String getCategories() {
+        return categories;
+    }
+
+    public void setCategories(String categories) {
+        this.categories = categories;
+    }
+
+    public String getFilename() {
+        return filename;
+    }
+
+    public void setFilename(String filename) {
+        this.filename = filename;
     }
 }

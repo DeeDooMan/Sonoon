@@ -23,4 +23,9 @@ dependencies {
 	runtimeOnly 'org.postgresql:postgresql'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testImplementation 'org.springframework.security:spring-security-test'
+
+	compile("org.springframework.boot:spring-boot-starter-mail")
+//	// Email
+	compile("com.sendinblue:sendinblue:2.0")
+	compile("com.icegreen:greenmail-spring:1.5.3")
 }

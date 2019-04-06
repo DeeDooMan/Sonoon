@@ -3,7 +3,7 @@
 <@c.page>
 <div class="form-row">
     <div class="form-group col-md-6">
-        <form method="get" action="/main" class="form-inline">
+        <form method="get" action="/articles" class="form-inline">
             <input type="text" name="filter" class="form-control" value="${filter?ifExists}" placeholder="Поиск по названию статьи">
             <button type="submit" class="btn btn-primary ml-2">Поиск</button>
         </form>

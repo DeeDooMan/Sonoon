@@ -47,6 +47,7 @@ public class ArticleController {
         model.addAttribute("filter", filter);
         return "articles";
     }
+
     @PostMapping("/articles")
     public String add(
             @AuthenticationPrincipal User user,
@@ -69,6 +70,7 @@ public class ArticleController {
         model.addAttribute("articles", articles);
         return "articles";
     }
+
     private void saveFile(@Valid Article article, @RequestParam("file") MultipartFile file) throws IOException {
         if (file != null && !file.getOriginalFilename().isEmpty()) {
             File uploadDir = new File(uploadPath);
@@ -84,9 +86,10 @@ public class ArticleController {
 
             article.setFilename(resultFilename);
         }
-      
-      @GetMapping("/article/{id}")
-    public String getArticle(Model model, @PathVariable Integer id) {
+    }
+
+    @GetMapping("/article/{id}")
+    public String getArticle (Model model, @PathVariable Integer id){
         Article article = articleRepo.getOne(id);
         articleRepo.save(article);
         model.addAttribute("newArticle", article);
@@ -94,7 +97,7 @@ public class ArticleController {
     }
 
     @GetMapping("/article/{id}/edit")
-    public String editArticle(Model model, @PathVariable Integer id) {
+    public String editArticle (Model model, @PathVariable Integer id){
         Article article = articleRepo.getOne(id);
 
         model.addAttribute("newsArticle", new Article(article.getText(), article.getZagalovok(), article.getEditor()));

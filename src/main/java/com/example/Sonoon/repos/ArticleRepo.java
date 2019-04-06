@@ -11,4 +11,7 @@ public interface ArticleRepo extends CrudRepository<Article,Integer> {
     @Override
     //удаляет данные с помощью id
     void deleteById(Integer integer);
+
+    Article getOne(Integer integer);
+
 }

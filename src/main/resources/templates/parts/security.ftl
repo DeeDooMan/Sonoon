@@ -11,7 +11,7 @@
     >
 <#else>
     <#assign
-        name = "неизвестно"
+        name = "Гость"
         isAdmin = false
         currentUserId = -1
     >

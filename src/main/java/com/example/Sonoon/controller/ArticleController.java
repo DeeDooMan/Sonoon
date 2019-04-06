@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
+import org.springframework.web.bind.annotation.PathVariable;
 
 import javax.validation.Valid;
 import java.io.File;
@@ -83,5 +84,21 @@ public class ArticleController {
 
             article.setFilename(resultFilename);
         }
+      
+      @GetMapping("/article/{id}")
+    public String getArticle(Model model, @PathVariable Integer id) {
+        Article article = articleRepo.getOne(id);
+        articleRepo.save(article);
+        model.addAttribute("newArticle", article);
+        return "article";
+    }
+
+    @GetMapping("/article/{id}/edit")
+    public String editArticle(Model model, @PathVariable Integer id) {
+        Article article = articleRepo.getOne(id);
+
+        model.addAttribute("newsArticle", new Article(article.getText(), article.getZagalovok(), article.getEditor()));
+        model.addAttribute("articleId", id);
+        return "edit";
     }
 }

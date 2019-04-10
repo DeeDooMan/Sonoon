@@ -1,0 +1,139 @@
+// assets
+@import 'assets/vars'
+@import 'assets/mixins'
+@import 'assets/fonts'
+@import 'assets/base'
+.header_section
+    height: 100vh
+    background: rgba(0, 0, 0, 0.5)
+.bg_img
+    background-size: cover!important
+    background-repeat: no-repeat!important
+    background-position: center!important
+.banner_header
+    width: 100%
+    height: 100%
+    object-fit: cover
+    z-index: -1
+.top_line
+    width: 100%
+    padding: 20px 
+    background: #F2F2F2
+    box-sizing: border-box
+    ul
+        margin-top: 0!important
+.navigation
+    a
+        color: #6E6E6E
+        padding: 15px 20px
+        &:hover
+            transition: 0.2s linear
+            color: #63C9D8
+            text-decoration: none
+.soc_list
+    a
+        color: #6E6E6E
+        &:hover
+            transition: 0.2s linear
+            color: #63C9D8
+            text-decoration: none
+.banner_text
+    margin: 0 auto
+    h1
+        margin: 0
+        font-size: 4rem
+        display: inline-block
+        color: #FFF
+    span
+        color: #FFF
+        font-size: 2rem
+.about_section
+    ul
+        li
+            display: flex
+            // align-items: center
+            box-sizing: border-box
+            height: 350px
+            a
+                width: 100%
+                height: 100%
+                background: rgba(0, 0, 0, 0.5)
+                &:hover
+                    text-decoration: none
+                h2
+                    color: #FFF
+                    margin: 0
+            img
+                width: 100%
+                height: 100%
+                z-index: -1
+                object-fit: cover
+    .about_text
+        padding: 20px
+.reviews_section
+    .review_list
+        .review_item
+            display: inline-block
+            .review_text
+                a
+                    font-size: 2rem
+                    color: #333
+                    &:hover
+                        text-decoration: none
+                        color: #3AC0C7
+            .review_img
+                height: 350px
+                object-fit: cover
+                width: 100%
+                margin-bottom: 10px
+            .author_img
+                width: 40px
+                height: 40px
+                margin-right: 10px
+                border-radius: 50%
+                background: #C2185B
+                color: #FFF
+                font-weight: bold
+            .autor_info
+                span
+                    font-size: 0.9rem
+                    display: block
+.section_footer
+    background: #6E6E6E
+    padding:  0  0 50px 0
+    h2,
+    h3
+        color: #FFF
+    .read_more_link
+        color: #8DD6DA
+    .soc_item
+        a
+            color: #FFF
+            font-size: 1.5rem
+    .left_footer
+        .logo_footer
+            width: 150px
+    .right_footer
+        input
+            margin-bottom: 20px
+        .btn_footer
+            display: block  
+            background: #3AC0C7
+            padding: 12px 25px
+            border: 0
+            font-size: 1.2rem
+            color: #FFF
+    .footer_slider_item
+        img
+            width: 100%
+            height: 300px
+            object-fit: cover
+.social_nets_section
+    background: #3AC0C7
+    .about_social
+        a
+            text-align: center
+            i
+                color: white
+                font-size: 1.5rem
+.about_section

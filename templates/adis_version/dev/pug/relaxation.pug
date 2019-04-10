@@ -1,0 +1,26 @@
+doctype
+html(lang="ru")
+    head
+        include assets/_metas.pug
+        include assets/_links.pug
+    body.uk-animation-fade
+        include ../components/header.pug        
+        section.reviews_section.section_default.uk-section
+            .uk-container
+                h1 Отдых
+                ul.review_list
+                    each postItem in [ {autor: 'Жамка Маматова', date: 'март 24 - 2 мин. чтения', caption: '5 вещей, которые нужно сделать в Кыргызстане', content: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim assumenda distinctio, sed ut culpa debitis sapiente sint perspiciatis veniam quas, iusto iure velit maiores numquam sequi obcaecati? Quae iure voluptatem repellendus, recusandae facere iste maiores saepe, hic, rerum blanditiis neque. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis ducimus quisquam error dicta. Voluptatum voluptatibus tempore architecto numquam, optio reprehenderit.'},]
+                        li.review_item
+                            img(src="./img/bg_img.jpg").review_img
+                            div.uk-padding
+                                div.uk-flex.uk-flex-middle
+                                    div.author_img.uk-flex.uk-flex-middle.uk-flex-center Ж
+                                    div.autor_info
+                                        span.autor_name=postItem.autor
+                                        span.autor_date=postItem.date
+                                .review_text
+                                    a=postItem.caption
+                                    p=postItem.content
+                                    hr
+        include ../components/footer.pug
+        include assets/_scripts.pug

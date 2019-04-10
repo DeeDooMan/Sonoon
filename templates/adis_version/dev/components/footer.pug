@@ -1,0 +1,35 @@
+section.social_nets_section
+    .uk-container.uk-container-small.about_social.uk-padding
+        div.uk-grid.uk-child-width-1-2
+            a(href="#")
+                i.fa.fa-facebook  facebook
+            a(href="#")
+                i.fa.fa-instagram  instagram
+section.section_footer
+    div(uk-slider="autoplay: true; autoplay-interval: 2500")
+        ul(class="uk-slider-items uk-child-width-1-3@s uk-child-width-1-4@")
+            each sliderItem in ['bg_img.jpg','bg_img.jpg','bg_img.jpg','bg_img.jpg','bg_img.jpg','bg_img.jpg']  
+                li.footer_slider_item
+                    img(src="./img/" + sliderItem)
+    .uk-container
+        div.uk-grid.uk-child-width-1-2(uk-grid).uk-padding-large
+            div.left_footer
+                div.uk-grid(uk-grid)
+                    div
+                        img(src="./img/bg_img.jpg").logo_footer
+                    div
+                        h2 About
+                        a(href="#").read_more_link Read more
+                ul.uk-grid(uk-grid).soc_list
+                    li.soc_item
+                        a(href="#").fa.fa-facebook
+                    li.soc_item
+                        a(href="#").fa.fa-instagram
+
+            div.right_footer
+                h3  Подпишитесь на новые посты:
+                form(action="#")
+                    input.uk-input(placeholder="Your email" type="email")
+                    button.btn_footer Подписаться
+
+                

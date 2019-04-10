@@ -1,0 +1,12 @@
+section.section_top_line(uk-sticky)
+    .top_line
+        .uk-container.uk-grid.uk-flex-between(uk-grid)
+            ul.uk-grid(uk-grid).navigation
+                li.nav_item
+                    each navItem in [{name: 'Главная',link: '/'},{name: 'О нас', link: '/about.html'},{name: 'Путешествия', link: '/journey.html'},{name: 'Еда', link: '/food.html'},{name: 'Отдых', link: '/relaxation.html'}]
+                        a(href=navItem.link)=  navItem.name
+            ul.uk-grid(uk-grid).soc_list
+                li.soc_item
+                    a(href="#").fa.fa-facebook
+                li.soc_item
+                    a(href="#").fa.fa-instagram

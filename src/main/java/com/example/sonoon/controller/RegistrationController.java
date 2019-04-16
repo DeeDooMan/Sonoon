@@ -1,7 +1,7 @@
-package com.example.sweater.controller;
+package com.example.sonoon.controller;
 
-import com.example.sweater.domain.User;
-import com.example.sweater.service.UserSevice;
+import com.example.sonoon.domain.User;
+import com.example.sonoon.service.UserSevice;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

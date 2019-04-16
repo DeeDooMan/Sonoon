@@ -1,9 +1,8 @@
-package com.example.sweater.controller;
+package com.example.sonoon.controller;
 
-import com.example.sweater.domain.Role;
-import com.example.sweater.domain.User;
-import com.example.sweater.repos.UserRepo;
-import com.example.sweater.service.UserSevice;
+import com.example.sonoon.domain.Role;
+import com.example.sonoon.domain.User;
+import com.example.sonoon.service.UserSevice;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;

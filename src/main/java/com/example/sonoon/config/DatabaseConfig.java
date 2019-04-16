@@ -1,4 +1,4 @@
-package com.example.sweater.config;
+package com.example.sonoon.config;
 
 import com.zaxxer.hikari.*;
 import org.springframework.beans.factory.annotation.Value;

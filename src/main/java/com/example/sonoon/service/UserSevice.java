@@ -1,8 +1,8 @@
-package com.example.sweater.service;
+package com.example.sonoon.service;
 
-import com.example.sweater.domain.Role;
-import com.example.sweater.domain.User;
-import com.example.sweater.repos.UserRepo;
+import com.example.sonoon.domain.Role;
+import com.example.sonoon.domain.User;
+import com.example.sonoon.repos.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

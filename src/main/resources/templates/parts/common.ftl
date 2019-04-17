@@ -10,11 +10,11 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-<style>
-   body {
+    <style>
+    body {
     background-image: url(static/bg.jpg);
     background-size: 100% auto;
-    background-attachment: fixed; /* Фиксируем фон веб-страницы */
+    background-attachment: fixed;
     }
     </style>
 </head>

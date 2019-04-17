@@ -8,15 +8,15 @@
     <div class="form-group mt-3">
         <form method="post" enctype="multipart/form-data">
             <div class="form-group">
-                <input type="text" class="form-control" name="text" placeholder="Введите новые контактные данные" />
+                <input type="text" class="form-control" name="text" placeholder="Введите новые данные" />
             </div>
             <div class="form-group">
-                            <input type="text" class="form-control" name="tag" placeholder="Введите новую цену машины">
+                            <input type="text" class="form-control" name="tag" placeholder="Введите новые данные">
                         </div>
             <div class="form-group">
                 <div class="custom-file">
                     <input type="file" name="file" id="customFile">
-                    <label class="custom-file-label" for="customFile">Выберите новое изображение машины</label>
+                    <label class="custom-file-label" for="customFile">Выберите новое изображение </label>
                 </div>
             </div>
             <input type="hidden" name="_csrf" value="${_csrf.token}" />

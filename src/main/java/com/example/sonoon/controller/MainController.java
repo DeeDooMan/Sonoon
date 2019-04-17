@@ -131,7 +131,19 @@ public class MainController {
         return "redirect:/user-messages/" + user;
     }
 
-    @GetMapping("/deleteMessage/{id}")
+    @GetMapping("/opublicovat/{id}")
+    public String opublicovat(@PathVariable("id") Message message) {
+            message.setActive(true);
+            messageRepo.save(message);
+        return "redirect:/main";}
+
+    @GetMapping("/c/{id}")
+    public String isAktiv(@PathVariable("id") Message message,Model model) {
+            message.isActive();
+           model.addAttribute(message);
+        return "redirect:/main";
+
+    }@GetMapping("/deleteMessage/{id}")
     public String deleteMessage(@PathVariable("id") Long id) {
         messageRepo.deleteById(id);
         return "redirect:/main";

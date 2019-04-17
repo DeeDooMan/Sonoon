@@ -6,6 +6,7 @@ create table message (
     tag varchar(255),
     text varchar(2048) not null,
     user_id int8,
+    active boolean,
     primary key (id)
 );
 

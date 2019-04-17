@@ -1,3 +1,6 @@
+<#include "security.ftl">
+
+<#if isEditor>
 <a class="btn btn-success" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
     Добавить предложение
 </a>
@@ -27,3 +30,4 @@
         </form>
     </div>
 </div>
+</#if>

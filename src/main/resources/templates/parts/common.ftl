@@ -8,15 +8,21 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
     <style>
-    body {
-    background-image: url(static/bg.jpg);
-    background-size: 100% auto;
-    background-attachment: fixed;
+    body
+    {
+        background-image: url(static/alay.jpg);
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
     }
-    </style>
+
+</style>
 </head>
 <body>
 <#include "navbar.ftl">

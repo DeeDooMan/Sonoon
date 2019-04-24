@@ -1,4 +1,33 @@
 <#macro login path isRegisterForm>
+    <!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+
+        <!-- The stylesheets -->
+    <link rel="stylesheet" href="assets/css/styles.css" />
+        <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" />
+
+        <!--[if lt IE 9]>
+          <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <h4>Регистрация через Google</h4>
+        <div id="main">
+
+            <?php if($person):?>
+                <div id="avatar" style="background-image:url(<?php echo $person->photo?>?sz=58)"></div>
+                <a href="?logout">Выйти</a>
+            <?php else:?>
+                <a href="<?php echo $client->createAuthUrl()?>">Войти через Google</a>
+            <?php endif;?>
+
+        </div>
+
+    </body>
 <form action="${path}" method="post">
     <div class="form-group row">
         <label class="col-sm-2 col-form-label">User Name :</label>
@@ -65,4 +94,6 @@
     <input type="hidden" name="_csrf" value="${_csrf.token}" />
     <button class="btn btn-primary" type="submit">Sign Out</button>
 </form>
+
+</html>
 </#macro>

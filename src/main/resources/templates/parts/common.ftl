@@ -20,6 +20,11 @@
         height: 100%;
         margin: 0;
         padding: 0;
+        color: #a00909;
+        font-style: italic;
+        font-weight:bold;
+        font-family:"courier";
+        font-size:110%;
     }
 
 </style>

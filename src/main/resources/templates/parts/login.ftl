@@ -11,11 +11,48 @@
         <!--[if lt IE 9]>
           <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
         <![endif]-->
+
+        <style>
+    #main
+    {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding:6px;
+        color: #3e28ba;
+        font-style: italic;
+        font-weight:normal;
+        font-family:"monospace";
+        font-size:110%;
+
+    }
+
+    #nazv
+    {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        color: #3e28ba;
+        font-style: normal;
+        font-weight:normal;
+        font-family:"monospace";
+        font-size:120%;
+    }
+
+    .form-group row {
+    padding: 0;
+    width: 100%;
+        height: 100%;
+        margin: 0;
+        }
+
+</style>
     </head>
 
     <body>
 
-        <h4>Регистрация через Google</h4>
+        <h4 id="nazv">Регистрация через Google</h4>
         <div id="main">
 
             <?php if($person):?>
@@ -27,7 +64,7 @@
 
         </div>
 
-    </body>
+
 <form action="${path}" method="post">
     <div class="form-group row">
         <label class="col-sm-2 col-form-label">User Name :</label>
@@ -94,6 +131,6 @@
     <input type="hidden" name="_csrf" value="${_csrf.token}" />
     <button class="btn btn-primary" type="submit">Sign Out</button>
 </form>
-
+</body>
 </html>
 </#macro>

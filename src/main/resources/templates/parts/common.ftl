@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Sonoon.KG</title>
-    <link rel="shortcut icon" href="/static/flag.png" type="image/png">
+    <link rel="shortcut icon" href="/static/Bomb.png" type="image/png">
     <link rel="stylesheet" href="/static/style.css">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -27,14 +27,39 @@
         font-family:"courier";
         font-size:110%;
     }
-
+        .is_overlay{
+     display: block;
+     width: 100%;
+     height: 100%;
+     }
+    #trailer {
+	position: fixed;
+	top: 0; right: 0; bottom: 0; left: 0;
+	overflow: hidden;
+}
+    #trailer > video {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
 </style>
 </head>
 <body>
+
+<div id="trailer" class="is_overlay">
+	<video id="video" width="100%" height="auto" autoplay="autoplay" loop="loop" preload="auto">
+		<source src="static/kyrgyzstan.mp4"></source>
+		<source src="book.webm" type="video/webm"></source>
+	</video>
+</div>
+
 <#include "navbar.ftl">
 <div class="container mt-5">
 <#nested>
 </div>
+
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

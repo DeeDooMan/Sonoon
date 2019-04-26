@@ -23,6 +23,8 @@ public class Message {
 
     private String filename;
 
+    private boolean active = false;
+
     public Message() {
     }
 
@@ -74,5 +76,13 @@ public class Message {
 
     public void setFilename(String filename) {
         this.filename = filename;
+    }
+
+    public boolean isActive() {
+        return active;
+    }
+
+    public void setActive(boolean active) {
+        this.active = active;
     }
 }

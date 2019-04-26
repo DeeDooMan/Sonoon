@@ -27,10 +27,9 @@
 
             <#if isEditor>
             <li class="nav-item">
-                <a class="nav-link" href="/mainadd">Добавить статью</a>
-            </li>
+                         <a class="nav-link" href="/user-messages/${currentUserId}">Мои статьи</a>
+                        </li>
             </#if>
-
             <#if user??>
             <li class="nav-item">
                 <a class="nav-link" href="/user/profile">Профиль</a>

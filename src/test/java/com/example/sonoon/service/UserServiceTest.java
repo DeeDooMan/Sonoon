@@ -45,4 +45,13 @@ public class UserServiceTest {
                         ArgumentMatchers.anyString()
                 );
     }
+
+    @Test
+    public void activateUserFailTest() {
+        boolean isUserActivated = userSevice.activateUser("activate me");
+
+        Assert.assertFalse(isUserActivated);
+
+        Mockito.verify(userRepo, Mockito.times(0)).save(ArgumentMatchers.any(User.class));
+    }
 }

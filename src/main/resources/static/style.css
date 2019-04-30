@@ -1,3 +1,154 @@
-body {
-    color: #113;
+ body {
+    background-image: url(static/bg.jpg);
+    background-size: 100% auto;
+    background-attachment: fixed; /* Фиксируем фон веб-страницы */
+    color: #113
+    }
+header, footer{
+  background-color: white;
+  color: black;
+  padding: 20px 0;
+}
+header .row , footer .row{
+  display: flex;
+  align-items: center;
+}
+header h1, footer h1{
+  font-weight: 700;
+  margin:0;
+}
+header nav{
+  display:flex;
+  justify-content:flex-end;
+  font-weight: 900;
+
+}
+footer nav{
+  margin:0 auto;
+  text-align:center;
+
+
+}
+header nav ul, footer nav ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+}
+header nav ul li, footer nav ul li{
+  display:inline-block;
+  padding:10px;
+
+}
+header ul li a, footer ul li a{
+  color:black;
+
+}
+header ul li a:hover, footer ul li a:hover{
+  background-color:black;
+  color:white;
+}
+/* General SECTIONS CSS START*/
+.jumbotron{
+  display:flex;
+  align-items:center;
+  min-height:200px;
+  margin-bottom: 100px;
+  padding-top:5%;
+  padding-bottom:5%;
+
+
+}
+.jumbotron h2{
+  font-size: 60px;
+  font-weight:700;
+  color:blue; /*text color*/
+  text-align: center
+}
+.jumbotron h3{
+  margin 0 0 20px;
+  color: yellow;
+  text-align:center;
+}
+.jumbotron ul{
+  list-style-type:none;
+}
+
+/*SECTIONS CSS END*/
+
+/*
+SECTION BGS
+*/
+.headerbg{
+  width:100%;
+}
+.quotebg{
+   padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: url('https://images.unsplash.com/photo-1462917882517-e150004895fa?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb') no-repeat center center fixed;
+    background-size: cover;
+    height: 855px;
+}
+.newsbg{
+
+  padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: url('https://images.unsplash.com/photo-1453873623425-04e3561289aa?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=980&q=80&cs=tinysrgb') no-repeat center center fixed;
+    background-size: cover;
+    height: 855px;
+}
+.aboutbg{
+  padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: url('https://images.unsplash.com/photo-1443170412500-d04323a4eb57?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=2250&q=80&cs=tinysrgb') no-repeat center center fixed;
+    background-size: cover;
+    height: 855px;
+}
+.portfoliobg{
+  padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: url('https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center fixed;
+    background-size: cover;
+    height: 855px;
+}
+.contactbg{
+  padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: url('https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1126&q=80&cs=tinysrgb') no-repeat center center fixed;
+    background-size: cover;
+    height: 855px;
+}
+/*
+SECTION BGS END
+*/
+.portpadd{
+  padding-top:10px;
+  padding-bottom:10px;
+}
+.btn {
+  display: inline-block;
+  background-color: white;
+  color:black;
+  border: 1px outset black;
+  border-radius: 25px;
+  font-size: 100%;
+  margin-bottom: 15px;
+}
+.btn:hover {
+  background-color: black;
+  color:white;
+}
+
+hr.stylenormal{
+	border-top: 3px double #8c8b8b;
+  border-color:white;
+}
+hr.stylecontact {
+	border-top: 3px double #8c8b8b;
+  border-color:black;
 }

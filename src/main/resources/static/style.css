@@ -1,3 +1,34 @@
 body {
     color: #a00909;
 }
+
+
+footer {
+  background: rgba(0,0,0,0.5);
+  bottom: 0;
+  left: 0;
+  padding: 20px 0;
+  position: fixed;
+  right: 0;
+  text-align: center;
+}
+ a {
+      float: left;
+      line-height: 0;
+      text-decoration: none;
+      color: green ;
+      text-align: center;
+
+    }
+a.support {
+    color: #fff;
+  text-decoration: none;
+  user-select: none;
+  background: green;
+  padding: .7em 1.5em;
+  outline: none;
+}
+a.support:hover { background: rgb(232,95,76);
+ }
+a.support:active { background: rgb(152,15,0);
+}

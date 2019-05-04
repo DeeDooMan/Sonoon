@@ -3,6 +3,8 @@ body {
 }
 
 
+
+
 footer {
   background: rgba(0,0,0,0.5);
   bottom: 0;
@@ -28,7 +30,40 @@ a.support {
   padding: .7em 1.5em;
   outline: none;
 }
-a.support:hover { background: rgb(232,95,76);
- }
-a.support:active { background: rgb(152,15,0);
+a.support:hover { background: rgb(232,95,76); }
+a.support:active { background: rgb(152,15,0); }
+
+* {box-sizing: border-box;}
+form {
+  width: auto;
+  float: right;
+  margin-right: 30px;
+}
+input {
+  width: 250px;
+  height: 42px;
+  padding-left: 15px;
+  border-radius: 42px;
+  border: 2px solid #324b4e;
+  background: #F9F0DA;
+  outline: none;
+  position: relative;
+  transition: .3s linear;
+}
+input:focus {
+  width: 300px;
+}
+button {
+  width: 42px;
+  height: 42px;
+  background: none;
+  border: none;
+  position: absolute;
+  top: -2px;
+  right: 0;
+}
+button:before{
+  content: "\f002";
+  font-family: FontAwesome;
+  color: #324b4e;
 }

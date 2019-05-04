@@ -48,12 +48,7 @@
 </head>
 <body>
 
-<div id="trailer" class="is_overlay">
-	<video id="video" width="100%" height="auto" autoplay="autoplay" loop="loop" preload="auto">
-		<source src="static/kyrgyzstan.mp4"></source>
-		<source src="book.webm" type="video/webm"></source>
-	</video>
-</div>
+
 
 <#include "navbar.ftl">
 <div class="container mt-5">
@@ -67,8 +62,11 @@
   <div class="social">
     <a href="#" class="support">О нас</a>
   </div>
+  <form>
+  <input type="text" placeholder="Искать здесь...">
+  <button type="submit"></button>
+</form>
 </footer>
-
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -25,6 +25,12 @@ create table usr (
     primary key (id)
 );
 
+create table category (
+    id int8 not null,
+    name varchar(255) not null,
+    primary key (id)
+);
+
 create table usr1 (
     id varchar(255),
     name varchar(255),

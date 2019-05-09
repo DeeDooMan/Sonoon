@@ -17,9 +17,9 @@ public class CategoryController {
         return "family_tour";
     }
 
-    @GetMapping("/category/sehenswurdigkeiten")
+    @GetMapping("/category/attractions")
     public String sehenswurdigkeiten(Map<String, Object> model) {
-        return "sehenswurdigkeiten";
+        return "attractions";
     }
 
     @GetMapping("/category/national-tour")

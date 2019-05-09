@@ -25,6 +25,23 @@ create table usr (
     primary key (id)
 );
 
+create table category (
+    id int8 not null,
+    name varchar(255) not null,
+    primary key (id)
+);
+
+create table usr1 (
+    id varchar(255),
+    name varchar(255),
+    userpic varchar(255),
+    email varchar(255),
+    gender varchar(255),
+    locale varchar(255),
+    last_Visit timestamp,
+    primary key (id)
+);
+
 alter table if exists message
     add constraint message_user_fk
     foreign key (user_id) references usr;

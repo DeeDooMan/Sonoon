@@ -1,11 +1,11 @@
 package com.example.sonoon.config;
 
-import com.example.sonoon.domain.UserGmail;
-import com.example.sonoon.repos.UserGmailRepo;
+//import com.example.sonoon.domain.UserGmail;
+//import com.example.sonoon.repos.UserGmailRepo;
 import com.example.sonoon.service.UserSevice;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth2Sso;
-import org.springframework.boot.autoconfigure.security.oauth2.resource.PrincipalExtractor;
+//import org.springframework.boot.autoconfigure.security.oauth2.client.EnableOAuth2Sso;
+//import org.springframework.boot.autoconfigure.security.oauth2.resource.PrincipalExtractor;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
@@ -16,11 +16,11 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-import java.time.LocalDateTime;
+//import java.time.LocalDateTime;
 
 @Configuration
 @EnableWebSecurity
-@EnableOAuth2Sso
+//@EnableOAuth2Sso
 @EnableGlobalMethodSecurity(prePostEnabled = true)
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Autowired
@@ -41,7 +41,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                     .antMatchers("/", "/registration", "/static/**", "/activate/*").permitAll()
                     .anyRequest().authenticated()
                 .and()
-                .csrf().disable()
+//                .csrf().disable()
                     .formLogin()
                     .loginPage("/login")
                     .permitAll()
@@ -56,27 +56,27 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
                 .passwordEncoder(passwordEncoder);
     }
 
-    @Bean
-    public PrincipalExtractor principalExtractor(UserGmailRepo userDetailsRepo) {
-        return map -> {
-            String id = (String) map.get("sub");
-
-            UserGmail user = userDetailsRepo.findById(id).orElseGet(() -> {
-                UserGmail newUser = new UserGmail();
-
-                newUser.setId(id);
-                newUser.setName((String) map.get("name"));
-                newUser.setEmail((String) map.get("email"));
-                newUser.setGender((String) map.get("gender"));
-                newUser.setLocale((String) map.get("locale"));
-                newUser.setUserpic((String) map.get("picture"));
-
-                return newUser;
-            });
-
-            user.setLastVisit(LocalDateTime.now());
-
-            return userDetailsRepo.save(user);
-        };
-    }
+//    @Bean
+//    public PrincipalExtractor principalExtractor(UserGmailRepo userDetailsRepo) {
+//        return map -> {
+//            String id = (String) map.get("sub");
+//
+//            UserGmail user = userDetailsRepo.findById(id).orElseGet(() -> {
+//                UserGmail newUser = new UserGmail();
+//
+//                newUser.setId(id);
+//                newUser.setName((String) map.get("name"));
+//                newUser.setEmail((String) map.get("email"));
+//                newUser.setGender((String) map.get("gender"));
+//                newUser.setLocale((String) map.get("locale"));
+//                newUser.setUserpic((String) map.get("picture"));
+//
+//                return newUser;
+//            });
+//
+//            user.setLastVisit(LocalDateTime.now());
+//
+//            return userDetailsRepo.save(user);
+//        };
+//    }
 }

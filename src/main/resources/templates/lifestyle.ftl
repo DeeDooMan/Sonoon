@@ -1,56 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Stories - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Sonoon.KG</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i" rel="stylesheet">
 
-    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="/static/css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="/static/css/animate.css">
     
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="/static/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/static/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/static/css/magnific-popup.css">
 
-    <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="/static/css/aos.css">
 
-    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="/static/css/ionicons.min.css">
     
-    <link rel="stylesheet" href="css/flaticon.css">
-    <link rel="stylesheet" href="css/icomoon.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/static/css/flaticon.css">
+    <link rel="stylesheet" href="/static/css/icomoon.css">
+    <link rel="stylesheet" href="/static/css/style.css">
   </head>
   <body>
 	  <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Stories<span>.</span></a>
+	      <a class="navbar-brand" href="index.html">Истории<span>.</span></a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-	        <span class="oi oi-menu"></span> Menu
+	        <span class="oi oi-menu"></span> Меню
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	          <li class="nav-item"><a href="foods.html" class="nav-link">Foods</a></li>
-	          <li class="nav-item active"><a href="lifestyle.html" class="nav-link">Lifestyle</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	          <li class="nav-item"><a href="index.html" class="nav-link">Домой</a></li>
+	          <li class="nav-item"><a href="about.html" class="nav-link">О нас</a></li>
+	          <li class="nav-item"><a href="foods.html" class="nav-link">Еда</a></li>
+	          <li class="nav-item active"><a href="lifestyle.html" class="nav-link">Стиль жизни</a></li>
+	          <li class="nav-item"><a href="contact.html" class="nav-link">Контакт</a></li>
 	        </ul>
 	      </div>
 	    </div>
 	  </nav>
     <!-- END nav -->
 
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_4.jpg');">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('/static/images/bg_4.jpg');">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5 text-center">
-            <h1 class="mb-3 bread">Lifestyle</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Lifestyle <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-3 bread">Стиль жизни</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Домой <i class="ion-ios-arrow-forward"></i></a></span> <span>Lifestyle <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
@@ -65,7 +65,7 @@
         			<div class="col-md-6 col-lg-12 ftco-animate">
     						<div class="blog-entry d-lg-flex">
     							<div class="half">
-			    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(images/image_1.jpg);">
+			    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
 			    						<div class="overlay"></div>
 				    				</a>
 			    				</div>
@@ -97,7 +97,7 @@
     					<div class="col-md-6 col-lg-12 ftco-animate">
     						<div class="blog-entry d-lg-flex">
     							<div class="half">
-			    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(images/image_3.jpg);">
+			    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
 			    						<div class="overlay"></div>
 				    				</a>
 			    				</div>
@@ -145,7 +145,7 @@
     					<div class="col-md-6 col-lg-12 ftco-animate">
     						<div class="blog-entry d-lg-flex">
     							<div class="half">
-			    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(images/image_6.jpg);">
+			    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_6.jpg);">
 			    						<div class="overlay"></div>
 				    				</a>
 			    				</div>
@@ -180,7 +180,7 @@
         		<div class="sidebar-wrap">
 	        		<div class="sidebar-box p-4 about text-center ftco-animate">
 			          <h2 class="heading mb-4">About Me</h2>
-			          <img src="images/author.jpg" class="img-fluid" alt="Colorlib Template">
+			          <img src="/static/images/author.jpg" class="img-fluid" alt="Colorlib Template">
 			          <div class="text pt-4">
 			          	<p>Hi! My name is <strong>Cathy Deon</strong>, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 			          </div>
@@ -197,21 +197,21 @@
 			          <h2 class="heading mb-4">Categories</h2>
 			          <ul class="category-image">
 			          	<li>
-			          		<a href="#" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(images/category-1.jpg);">
+			          		<a href="#" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/category-1.jpg);">
 			          			<div class="text">
 			          				<h3>Foods</h3>
 			          			</div>
 			          		</a>
 			          	</li>
 			          	<li>
-			          		<a href="#" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(images/category-2.jpg);">
+			          		<a href="#" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/category-2.jpg);">
 			          			<div class="text">
 			          				<h3>Lifestyle</h3>
 			          			</div>
 			          		</a>
 			          	</li>
 			          	<li>
-			          		<a href="#" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(images/category-2.jpg);">
+			          		<a href="#" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/category-2.jpg);">
 			          			<div class="text">
 			          				<h3>Others</h3>
 			          			</div>
@@ -318,21 +318,21 @@
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
 
 
-  <script src="js/jquery.min.js"></script>
-  <script src="js/jquery-migrate-3.0.1.min.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.easing.1.3.js"></script>
-  <script src="js/jquery.waypoints.min.js"></script>
-  <script src="js/jquery.stellar.min.js"></script>
-  <script src="js/owl.carousel.min.js"></script>
-  <script src="js/jquery.magnific-popup.min.js"></script>
-  <script src="js/aos.js"></script>
-  <script src="js/jquery.animateNumber.min.js"></script>
-  <script src="js/scrollax.min.js"></script>
+  <script src="/static/js/jquery.min.js"></script>
+  <script src="/static/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="/static/js/popper.min.js"></script>
+  <script src="/static/js/bootstrap.min.js"></script>
+  <script src="/static/js/jquery.easing.1.3.js"></script>
+  <script src="/static/js/jquery.waypoints.min.js"></script>
+  <script src="/static/js/jquery.stellar.min.js"></script>
+  <script src="/static/js/owl.carousel.min.js"></script>
+  <script src="/static/js/jquery.magnific-popup.min.js"></script>
+  <script src="/static/js/aos.js"></script>
+  <script src="/static/js/jquery.animateNumber.min.js"></script>
+  <script src="/static/js/scrollax.min.js"></script>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
-  <script src="js/google-map.js"></script>
-  <script src="js/main.js"></script>
+  <script src="/static/js/google-map.js"></script>
+  <script src="/static/js/main.js"></script>
     
   </body>
 </html>

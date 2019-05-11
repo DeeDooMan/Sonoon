@@ -139,18 +139,18 @@ public class MainController {
     public String opublicovat(@PathVariable("id") Message message) {
             message.setActive(true);
             messageRepo.save(message);
-        return "redirect:/main";}
+        return "redirect:/foods";}
 
     @GetMapping("/c/{id}")
     public String isAktiv(@PathVariable("id") Message message,Model model) {
             message.isActive();
            model.addAttribute(message);
-        return "redirect:/main";
+        return "redirect:/foods";
 
     }@GetMapping("/deleteMessage/{id}")
     public String deleteMessage(@PathVariable("id") Long id) {
         messageRepo.deleteById(id);
-        return "redirect:/main";
+        return "redirect:/foods";
     }
 
     @GetMapping("/deleteUser/{id}")

@@ -12,14 +12,20 @@
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item active"><a href="/" class="nav-link">Домой</a></li>
 	          <li class="nav-item"><a href="about.html" class="nav-link">О нас</a></li>
-	          <li class="nav-item"><a href="/foods" class="nav-link">Еда</a></li>
+	          <li class="nav-item"><a href="/foods" class="nav-link">Статьи</a></li>
 	          <li class="nav-item"><a href="/single" class="nav-link">Стиль жизни</a></li>
 	          <li class="nav-item"><a href="contact.html" class="nav-link">Контакты</a></li>
 
 	          <#if isAdmin>
-	          <li class="nav-item"><a href="/user" class="nav-link">Список пользователей</a></li>
+	         	 <li class="nav-item"><a href="/user" class="nav-link">Список пользователей</a></li>
 	          </#if>
 
+			<#if isEditor>
+				<li class="nav-item"><a class="nav-link" href="/user-messages/${currentUserId}">Мои статьи</a></li>
+            </#if>
+			<#if user??>
+				<li class="nav-item"><a class="nav-link" href="/user/profile">Профиль</a></li>
+            </#if>
 	        </ul>
 	      </div>
 	    </div>

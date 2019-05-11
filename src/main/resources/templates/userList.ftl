@@ -2,6 +2,7 @@
 
 
 <@c.page>
+<div class="raw">
     <h5>Список пользователей</h5>
     <table class="table table-bordered table-dark">
     <thead>
@@ -23,4 +24,5 @@
     </#list>
     </tbody>
 </table>
+</div>
 </@c.page>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Stories - Free Bootstrap 4 Template by Colorlib</title>
+    <title>Sonoon.KG</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -26,18 +26,18 @@
   <body>
 	  <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Stories<span>.</span></a>
+	      <a class="navbar-brand" href="index.html">Sonoon.KG<span>.</span></a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-	        <span class="oi oi-menu"></span> Menu
+	        <span class="oi oi-menu"></span> Меню
 	      </button>
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	          <li class="nav-item"><a href="foods.html" class="nav-link">Foods</a></li>
-	          <li class="nav-item"><a href="lifestyle.html" class="nav-link">Lifestyle</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	          <li class="nav-item active"><a href="index.html" class="nav-link">Домой</a></li>
+	          <li class="nav-item"><a href="about.html" class="nav-link">О нас</a></li>
+	          <li class="nav-item"><a href="Еда.html" class="nav-link">Еда</a></li>
+	          <li class="nav-item"><a href="Стиль жизни.html" class="nav-link">Стиль жизни</a></li>
+	          <li class="nav-item"><a href="contact.html" class="nav-link">Контакты</a></li>
 	        </ul>
 	      </div>
 	    </div>
@@ -53,10 +53,10 @@
 
             <div class="text d-flex align-items-center ftco-animate">
             	<div class="text-2 pb-lg-5 mb-lg-4 px-4 px-md-5">
-		          	<h3 class="subheading mb-3">Featured Posts</h3>
-		            <h1 class="mb-5">Love the Delicious &amp; Tasty Foods</h1>
-		            <p class="mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia</p>
-		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Read More <span class="icon-arrow_forward ml-lg-4"></span></a></p>
+		          	<h3 class="subheading mb-3">Популярные публикации</h3>
+		            <h1 class="mb-5">Любовь вкуса &amp; Вкусные блюда</h1>
+		            <p class="mb-md-5">Небольшая река по имени Дуден протекает мимо их места и снабжает ее необходимой регелиалией.</p>
+		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
               </div>
             </div>
 
@@ -72,10 +72,10 @@
 
             <div class="text d-flex align-items-center ftco-animate">
             	<div class="text-2 pb-lg-5 mb-lg-4 px-4 px-md-5">
-		          	<h3 class="subheading mb-3">Featured Posts</h3>
-		            <h1 class="mb-5">I am A Blogger &amp; I Love Foods</h1>
-		            <p class="mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia</p>
-		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Read More <span class="icon-arrow_forward ml-lg-4"></span></a></p>
+		          	<h3 class="subheading mb-3">Популярные публикации</h3>
+		            <h1 class="mb-5">Я блоггер &amp; Я люблю блюда</h1>
+		            <p class="mb-md-5">Небольшая река по имени Дуден протекает мимо их места и снабжает ее необходимой регелиалией.</p>
+		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
 	            </div>
             </div>
 
@@ -89,7 +89,7 @@
     	<div class="container">
     		<div class="row">
           <div class="col-md-7 heading-section ftco-animate">
-            <h2 class="mb-4"><span>Recent Stories</span></h2>
+            <h2 class="mb-4"><span>Недавние истории</span></h2>
           </div>
         </div>
     		<div class="row">
@@ -98,9 +98,9 @@
     					<div class="img img-big d-flex align-items-end" style="background-image: url(images/image_2.jpg);">
     						<div class="overlay"></div>
     						<div class="text">
-    							<span class="subheading">Food</span>
-    							<h3><a href="single.html">Tasty &amp; Delicious Foods</a></h3>
-    							<p class="mb-0"><a href="single.html" class="btn-custom">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+    							<span class="subheading">Еда</span>
+    							<h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
+    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
     						</div>
 	    				</div>
     				</div>
@@ -113,8 +113,8 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="single.html">Tasty &amp; Delicious Foods</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апереля, 2019</span></p>
+	    							<h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn-custom">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -125,8 +125,8 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="single.html">Tasty &amp; Delicious Foods from Scotland</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn-custom">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -137,9 +137,9 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="single.html">Tasty &amp; Delicious Foods</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
+	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -149,8 +149,8 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="single.html">Tasty &amp; Delicious Foods</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn-custom">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -175,8 +175,8 @@
     						<div class="blog-entry">
 		    					<a href="single.html" class="img-2"><img src="images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="#">Tasty &amp; Delicious Foods</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="#">Вкусно &amp; Вкусная еда</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -185,8 +185,8 @@
     						<div class="blog-entry">
 		    					<a href="single.html" class="img-2"><img src="images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="#">Tasty &amp; Delicious Foods</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="#">Вкусно &amp; Вкусная еда</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -195,8 +195,8 @@
     						<div class="blog-entry">
 		    					<a href="single.html" class="img-2"><img src="images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="#">Tasty &amp; Delicious Foods</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="#">Вкусно &amp; Вкусная еда</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -207,10 +207,10 @@
         	<div class="col-lg-3">
         		<div class="sidebar-wrap">
 	        		<div class="sidebar-box p-4 about text-center ftco-animate">
-			          <h2 class="heading mb-4">About Me</h2>
+			          <h2 class="heading mb-4">Про меня</h2>
 			          <img src="images/author.jpg" class="img-fluid" alt="Colorlib Template">
 			          <div class="text pt-4">
-			          	<p>Hi! My name is <strong>Cathy Deon</strong>, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+			          	<p>Привет, меня зовут <strong>SONOON</strong>, some text</p>
 			          </div>
 	        		</div>
 	        		<div class="sidebar-box p-4 ftco-animate">
@@ -236,7 +236,7 @@
 	        	<div class="text-2 py-5 px-4">
 	          	<p class="mb-5"><a href="https://vimeo.com/45830194" class="btn-custom popup-vimeo">Watch Video <span class="ion-ios-play ml-4"></span></a></p>
 	            <h1 class="mb-5">Roger <br> Bosch</h1>
-	            <p class="mb-md-5">A small river named Duden flows by their place and supplies it with the necessary regelialia. Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+	            <p class="mb-md-5">some text</p>
 	            <span class="signature">Roger.Bosch</span>
 	          </div>
 	        </div>
@@ -250,7 +250,7 @@
         	<div class="col-md-9">
         		<div class="row">
 		          <div class="col-md-12 heading-section ftco-animate">
-		            <h2 class="mb-4"><span>Holiday Seasons Recipes</span></h2>
+		            <h2 class="mb-4"><span>Наши статьи</span></h2>
 		          </div>
 		        </div>
         		<div class="row">
@@ -259,9 +259,9 @@
 		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(images/image_1.jpg);">
 		    						<div class="overlay"></div>
 		    						<div class="text">
-		    							<span class="subheading">Food</span>
-		    							<h3><a href="#">ham sandwich on white surface</a></h3>
-		    							<p class="mb-0"><a href="#" class="btn-custom">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+		    							<span class="subheading">Еда</span>
+		    							<h3><a href="#">содержание</a></h3>
+		    							<p class="mb-0"><a href="#" class="btn-custom">читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 		    						</div>
 			    				</div>
 		    				</div>
@@ -271,9 +271,9 @@
 		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(images/image_3.jpg);">
 		    						<div class="overlay"></div>
 		    						<div class="text">
-		    							<span class="subheading">Lifestyle</span>
-		    							<h3><a href="#">White and red ceramic plate</a></h3>
-		    							<p class="mb-0"><a href="#" class="btn-custom">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+		    							<span class="subheading">Стиль Жизни</span>
+		    							<h3><a href="#">Белая и красная керамика</a></h3>
+		    							<p class="mb-0"><a href="#" class="btn-custom">читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 		    						</div>
 			    				</div>
 		    				</div>
@@ -282,27 +282,27 @@
         	</div>
         	<div class="col-md-3">
         		<div class="sidebar-wrap pt-4">
-	            <div class="sidebar-box categories text-center ftco-animate">
-			          <h2 class="heading mb-4">Categories</h2>
+	            <div class="sidebar-box Категории text-center ftco-animate">
+			          <h2 class="heading mb-4">Категории</h2>
 			          <ul class="category-image">
 			          	<li>
-			          		<a href="foods.html" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(images/category-1.jpg);">
+			          		<a href="Еда.html" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(images/category-1.jpg);">
 			          			<div class="text">
-			          				<h3>Foods</h3>
+			          				<h3>Еда</h3>
 			          			</div>
 			          		</a>
 			          	</li>
 			          	<li>
-			          		<a href="lifestyle.html" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(images/category-2.jpg);">
+			          		<a href="Стиль жизни.html" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(images/category-2.jpg);">
 			          			<div class="text">
-			          				<h3>Lifestyle</h3>
+			          				<h3>Стиль жизни</h3>
 			          			</div>
 			          		</a>
 			          	</li>
 			          	<li>
 			          		<a href="#" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(images/category-2.jpg);">
 			          			<div class="text">
-			          				<h3>Others</h3>
+			          				<h3>Остальное</h3>
 			          			</div>
 			          		</a>
 			          	</li>
@@ -323,8 +323,8 @@
     			<div class="col-md-6 pl-md-5 py-5">
     				<div class="row justify-content-start pb-3">
 		          <div class="col-md-12 heading-section ftco-animate">
-		            <h2 class="mb-4">About Stories</h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p>
+		            <h2 class="mb-4">Про истории</h2>
+		            <p>some text</p>
 		          </div>
 		        </div>
 		    		<div class="row">
@@ -332,7 +332,7 @@
 		            <div class="block-18 text-center py-5 bg-light mb-4">
 		              <div class="text">
 		                <strong class="number" data-number="10">0</strong>
-		                <span>Years of Experienced</span>
+		                <span>Годы опыта</span>
 		              </div>
 		            </div>
 		          </div>
@@ -340,7 +340,7 @@
 		            <div class="block-18 text-center py-5 bg-light mb-4">
 		              <div class="text">
 		                <strong class="number" data-number="200">0</strong>
-		                <span>Foods</span>
+		                <span>Еда</span>
 		              </div>
 		            </div>
 		          </div>
@@ -348,7 +348,7 @@
 		            <div class="block-18 text-center py-5 bg-light mb-4">
 		              <div class="text">
 		                <strong class="number" data-number="300">0</strong>
-		                <span>Lifestyle</span>
+		                <span>Стиль жизни</span>
 		              </div>
 		            </div>
 		          </div>
@@ -372,8 +372,8 @@
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-8 text-wrap text-center heading-section ftco-animate">
-              <h2 class="mb-4"><span>Subcribe to our Newsletter</span></h2>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+              <h2 class="mb-4"><span>Подписывайтесь на нас</span></h2>
+              <p>some text</p>
               <div class="row d-flex justify-content-center mt-4 mb-4">
                 <div class="col-md-8">
                   <form action="#" class="subscribe-form">
@@ -396,8 +396,8 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Stories</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <h2 class="ftco-heading-2">Истории</h2>
+              <p>some text</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -407,36 +407,36 @@
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Information</h2>
+              <h2 class="ftco-heading-2">Информация</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">Terms of Uses</a></li>
-                <li><a href="#" class="py-2 d-block">About Stories</a></li>
-                <li><a href="#" class="py-2 d-block">Privacy Policy</a></li>
-                <li><a href="#" class="py-2 d-block">Accessibility Help</a></li>
-                <li><a href="#" class="py-2 d-block">Advertise with us</a></li>
+                <li><a href="#" class="py-2 d-block">Условия пользования</a></li>
+                <li><a href="#" class="py-2 d-block">Про истории</a></li>
+                <li><a href="#" class="py-2 d-block">Политика конфиденциальности</a></li>
+                <li><a href="#" class="py-2 d-block">Справка</a></li>
+                <li><a href="#" class="py-2 d-block">Реклама с нами</a></li>
               </ul>
             </div>
           </div>
           <div class="col-md">
              <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Categories</h2>
+              <h2 class="ftco-heading-2">Категории</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">Food</a></li>
-                <li><a href="#" class="py-2 d-block">Restaurant</a></li>
-                <li><a href="#" class="py-2 d-block">Dessert</a></li>
-                <li><a href="#" class="py-2 d-block">Lifestyle</a></li>
-                <li><a href="#" class="py-2 d-block">Recipes</a></li>
+                <li><a href="#" class="py-2 d-block">Еда</a></li>
+                <li><a href="#" class="py-2 d-block">Ресторан</a></li>
+                <li><a href="#" class="py-2 d-block">Десерт</a></li>
+                <li><a href="#" class="py-2 d-block">Стиль жизни</a></li>
+                <li><a href="#" class="py-2 d-block">Рецепты</a></li>
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-            	<h2 class="ftco-heading-2">Have a Questions?</h2>
+            	<h2 class="ftco-heading-2">У вас есть вопросы?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">Бишкек, Кыргызстан</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+996 555 211 308  </span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">inai.kg@mail.ru</span></a></li>
 	              </ul>
 	            </div>
             </div>

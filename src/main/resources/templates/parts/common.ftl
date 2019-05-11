@@ -23,6 +23,8 @@
   </head>
   <body>
 
+ <#include "navbar.ftl">
+
 <#nested>
 
     <footer class="ftco-footer ftco-footer-2 ftco-section">

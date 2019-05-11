@@ -19,6 +19,7 @@
         <div class="row">
             <div class="col-lg-9">
                 <div class="row">
+
                     <div class="col-md-4 ftco-animate">
                         <div class="blog-entry">
                             <a href="single.html" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
@@ -29,87 +30,10 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-4 ftco-animate">
-                        <div class="blog-entry">
-                            <a href="single.html" class="img-2"><img src="/static/images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
-                            <div class="text pt-3">
-                                <p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-                                <h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-                                <p class="mb-0"><a href="single.html" class="btn btn-black py-2">Подробнее <span class="icon-arrow_forward ml-4"></span></a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 ftco-animate">
-                        <div class="blog-entry">
-                            <a href="single.html" class="img-2"><img src="/static/images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
-                            <div class="text pt-3">
-                                <p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-                                <h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-                                <p class="mb-0"><a href="single.html" class="btn btn-black py-2">Подробнее <span class="icon-arrow_forward ml-4"></span></a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 ftco-animate">
-                        <div class="blog-entry">
-                            <a href="single.html" class="img-2"><img src="/static/images/blog-4.jpg" class="img-fluid" alt="Colorlib Template"></a>
-                            <div class="text pt-3">
-                                <p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-                                <h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-                                <p class="mb-0"><a href="single.html" class="btn btn-black py-2">Подробнее <span class="icon-arrow_forward ml-4"></span></a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 ftco-animate">
-                        <div class="blog-entry">
-                            <a href="single.html" class="img-2"><img src="/static/images/blog-5.jpg" class="img-fluid" alt="Colorlib Template"></a>
-                            <div class="text pt-3">
-                                <p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-                                <h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-                                <p class="mb-0"><a href="single.html" class="btn btn-black py-2">Подробнее <span class="icon-arrow_forward ml-4"></span></a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 ftco-animate">
-                        <div class="blog-entry">
-                            <a href="single.html" class="img-2"><img src="/static/images/blog-6.jpg" class="img-fluid" alt="Colorlib Template"></a>
-                            <div class="text pt-3">
-                                <p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-                                <h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-                                <p class="mb-0"><a href="single.html" class="btn btn-black py-2">Подробнее <span class="icon-arrow_forward ml-4"></span></a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 ftco-animate">
-                        <div class="blog-entry">
-                            <a href="single.html" class="img-2"><img src="/static/images/blog-7.jpg" class="img-fluid" alt="Colorlib Template"></a>
-                            <div class="text pt-3">
-                                <p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-                                <h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-                                <p class="mb-0"><a href="single.html" class="btn btn-black py-2">Подробнее <span class="icon-arrow_forward ml-4"></span></a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 ftco-animate">
-                        <div class="blog-entry">
-                            <a href="single.html" class="img-2"><img src="/static/images/blog-8.jpg" class="img-fluid" alt="Colorlib Template"></a>
-                            <div class="text pt-3">
-                                <p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-                                <h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-                                <p class="mb-0"><a href="single.html" class="btn btn-black py-2">Подробнее <span class="icon-arrow_forward ml-4"></span></a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-4 ftco-animate">
-                        <div class="blog-entry">
-                            <a href="single.html" class="img-2"><img src="/static/images/blog-9.jpg" class="img-fluid" alt="Colorlib Template"></a>
-                            <div class="text pt-3">
-                                <p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-                                <h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-                                <p class="mb-0"><a href="single.html" class="btn btn-black py-2">Подробнее <span class="icon-arrow_forward ml-4"></span></a></p>
-                            </div>
-                        </div>
-                    </div>
+
+<#include "parts/messageList.ftl" />
                 </div>
+
                 <div class="row mt-5">
                     <div class="col text-center">
                         <div class="block-27">

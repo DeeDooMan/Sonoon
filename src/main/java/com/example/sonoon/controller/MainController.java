@@ -45,8 +45,12 @@ public class MainController {
     public String greeting(Map<String, Object> model) {
         return "index";
     }
+@GetMapping("/single")
+    public String single(Map<String, Object> model) {
+        return "single";
+    }
 
-    @GetMapping("/main")
+    @GetMapping("/foods")
     public String main(@RequestParam(required = false, defaultValue = "") String filter, Model model){
         Iterable<Message> messages;
 
@@ -59,10 +63,10 @@ public class MainController {
 
         model.addAttribute("messages", messages);
         model.addAttribute("filter", filter);
-        return "main";
+        return "foods";
     }
 
-    @PostMapping("/main")
+    @PostMapping("/foods")
     public String add(
             @AuthenticationPrincipal User user,
             @Valid Message message,
@@ -84,7 +88,7 @@ public class MainController {
         }
         Iterable<Message> messages = messageRepo.findAll();
         model.addAttribute("messages", messages);
-        return "main";
+        return "foods";
     }
 
 
@@ -135,18 +139,18 @@ public class MainController {
     public String opublicovat(@PathVariable("id") Message message) {
             message.setActive(true);
             messageRepo.save(message);
-        return "redirect:/main";}
+        return "redirect:/foods";}
 
     @GetMapping("/c/{id}")
     public String isAktiv(@PathVariable("id") Message message,Model model) {
             message.isActive();
            model.addAttribute(message);
-        return "redirect:/main";
+        return "redirect:/foods";
 
     }@GetMapping("/deleteMessage/{id}")
     public String deleteMessage(@PathVariable("id") Long id) {
         messageRepo.deleteById(id);
-        return "redirect:/main";
+        return "redirect:/foods";
     }
 
     @GetMapping("/deleteUser/{id}")
@@ -170,4 +174,5 @@ public class MainController {
             message.setFilename(resultFilename);
         }
     }
+
     }

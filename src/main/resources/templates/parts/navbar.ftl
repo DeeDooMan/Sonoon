@@ -10,11 +10,16 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">Домой</a></li>
+	          <li class="nav-item active"><a href="/" class="nav-link">Домой</a></li>
 	          <li class="nav-item"><a href="about.html" class="nav-link">О нас</a></li>
-	          <li class="nav-item"><a href="Еда.html" class="nav-link">Еда</a></li>
-	          <li class="nav-item"><a href="Стиль жизни.html" class="nav-link">Стиль жизни</a></li>
+	          <li class="nav-item"><a href="/foods" class="nav-link">Еда</a></li>
+	          <li class="nav-item"><a href="/single" class="nav-link">Стиль жизни</a></li>
 	          <li class="nav-item"><a href="contact.html" class="nav-link">Контакты</a></li>
+
+	          <#if isAdmin>
+	          <li class="nav-item"><a href="/user" class="nav-link">Список пользователей</a></li>
+	          </#if>
+
 	        </ul>
 	      </div>
 	    </div>

@@ -6,7 +6,7 @@
     <div class="blog-entry">
       <#if isEditor || message.active>
         <#if message.filename??>
-            <img src="/img/${message.filename}" class="card-img-top">
+            <img src="/img/${message.filename}" class="img-fluid" alt="Colorlib Template">
         </#if>
 
         <div class="text pt-3">

@@ -2,7 +2,7 @@
 
 
 <@c.page>
-<div class="raw">
+<div class="container">
     <h5>Список пользователей</h5>
     <table class="table table-bordered table-dark">
     <thead>

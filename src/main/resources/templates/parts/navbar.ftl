@@ -3,7 +3,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="/">Sonoon.KG<span>.</span></a>
+	      <a class="navbar-brand" href="/">Sonoon<span>.</span>KG</a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Меню
 	      </button>
@@ -11,10 +11,10 @@
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item active"><a href="/" class="nav-link">Домой</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">О нас</a></li>
+	          <li class="nav-item"><a href="/about" class="nav-link">О нас</a></li>
 	          <li class="nav-item"><a href="/foods" class="nav-link">Статьи</a></li>
-	          <li class="nav-item"><a href="/single" class="nav-link">Стиль жизни</a></li>
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Контакты</a></li>
+	          <li class="nav-item"><a href="/lifestyle" class="nav-link">Стиль жизни</a></li>
+	          <li class="nav-item"><a href="/contact" class="nav-link">Контакты</a></li>
 
 	          <#if isAdmin>
 	         	 <li class="nav-item"><a href="/user" class="nav-link">Список пользователей</a></li>
@@ -29,7 +29,7 @@
 	        </ul>
 	      </div>
 
-		<div class="navbar-text mr-3">${name}</div>
+		<div class="navbar-text color-bk">${name}</div>
 	      <#if user??>
 			<@l.logout />
 		  </#if>

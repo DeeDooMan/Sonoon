@@ -1,6 +1,7 @@
 <#import "parts/common.ftl" as c>
 
 <@c.page>
+<div class="container">
 User editor
 
 <form action="/user" method="post">
@@ -14,4 +15,5 @@ User editor
     <input type="hidden" value="${_csrf.token}" name="_csrf">
     <button type="submit">Save</button>
 </form>
+</div>
 </@c.page>

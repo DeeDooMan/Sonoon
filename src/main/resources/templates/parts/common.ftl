@@ -29,17 +29,18 @@
 
 <#nested>
 
+<br>
     <footer class="ftco-footer ftco-footer-2 ftco-section">
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Истории</h2>
-              <p>some text</p>
+
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="https://ru-ru.facebook.com/kgiaibishkek/"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.instagram.com/kgfai4555/"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>

@@ -45,9 +45,25 @@ public class MainController {
     public String greeting(Map<String, Object> model) {
         return "index";
     }
-@GetMapping("/single")
+
+    @GetMapping("/single")
     public String single(Map<String, Object> model) {
         return "single";
+    }
+
+    @GetMapping("/contact")
+    public String contact(Map<String, Object> model) {
+        return "contact";
+    }
+
+    @GetMapping("/lifestyle")
+    public String lifestyle(Map<String, Object> model) {
+        return "lifestyle";
+    }
+
+    @GetMapping("/about")
+    public String about(Map<String, Object> model) {
+        return "about";
     }
 
     @GetMapping("/foods")

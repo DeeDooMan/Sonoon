@@ -58,13 +58,15 @@ public class UserSevice implements UserDetailsService {
     private void sendMessage(User user) {
         if (!StringUtils.isEmpty(user.getEmail())) {
             String message = String.format(
-                    "Hello, %s! \n" +
-                            "Welcome to Sweater. Please, visit next link: http://localhost:8080/activate/%s",
-                    user.getUsername(),
-                    user.getActivationCode()
+                    "Здравствуйте, %s! \n" +
+                            "Благодарим за создание аккаунта SoNoon.KG.+\n " +
+                            "Мы SoNoon.kg представляем вам нашу страну.\n" +
+                            "Используя данный аккаунт Вы можете ознакомится всеми ресурсами нашего сайта ",
+                    user.getUsername()
+
             );
 
-            mailSender.send(user.getEmail(), "Activation code", message);
+            mailSender.send(user.getEmail(), "Команда SoNoon.KG", message);
         }
     }
 

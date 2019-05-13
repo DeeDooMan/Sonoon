@@ -6,8 +6,8 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5 text-center">
-            <h1 class="mb-3 bread">Стиль жизни</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Домой <i class="ion-ios-arrow-forward"></i></a></span> <span>Lifestyle <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-3 bread">Жизнь кыргызов</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Домой <i class="ion-ios-arrow-forward"></i></a></span> <span>Жизнь кыргызоа <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
@@ -27,11 +27,11 @@
 				    				</a>
 			    				</div>
 			    				<div class="text px-md-4 px-lg-5 half pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="single.html">Tasty &amp; Delicious Foods</a></h3>
-	    							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">Март 01, 2018</span></p>
+	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p>Всего на территории республики проживают представители более 100 национальностей.
 </p>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -43,11 +43,23 @@
 				    				</a>
 			    				</div>
 			    				<div class="text px-md-4 px-lg-5 half pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="single.html">Tasty &amp; Delicious Foods</a></h3>
-	    							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">Март 01, 2018</span></p>
+	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p>Валюта — кыргызский сом (KGS, код 417)
+
+Интернет-домен -.kg
+
+Телефонный код — +996
+
+Часовые пояса — UTC +6
+
+Территория 199,9 тыс. км2 (5,8% — леса, 4,4% — воды, 53,3% — сельскохозяйственные угодья, 36,5% — прочие земли). Почти 90% расположено выше 1500 м над уровнем моря.
+
+Столица — Бишкек (859,8 тыс. человек).
+
+Большие города Ош (255,8 тыс.), Джалал-Абад (98,4 тыс.), Каракол (68,0 тыс.).
 </p>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -59,11 +71,11 @@
 				    				</a>
 			    				</div>
 			    				<div class="text px-md-4 px-lg-5 half pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="single.html">Tasty &amp; Delicious Foods</a></h3>
-	    							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">Март 01, 2018</span></p>
+	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p>Флаг утвержден 3 марта 1992 года постановлением Верховного Совета Республики Кыргызстан.
 </p>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -75,11 +87,11 @@
 				    				</a>
 			    				</div>
 			    				<div class="text px-md-4 px-lg-5 half pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="single.html">Tasty &amp; Delicious Foods</a></h3>
-	    							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">Март 01, 2018</span></p>
+	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p>Авторский коллектив:  Э. Айдарбеков, Б. Жайчыбеков, С. Иптаров, Ж. Матаев, М. Сыдыков.
 </p>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Читать больше  <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -91,11 +103,11 @@
 				    				</a>
 			    				</div>
 			    				<div class="text px-md-4 px-lg-5 half pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="single.html">Tasty &amp; Delicious Foods</a></h3>
-	    							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">March 01, 2018</span></p>
+	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p>осударственный флаг Кыргызской Республики представляет собой красное прямоугольное полотнище, в центре которого размещено изображение круглого солнечного диска равномерно расходящимися лучами золотистого цвета (сорок (кырг) лучей), с помещенным внутри солнечного диска изображением тюндюка кыргызской юрты красного цвета.
 </p>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Читать больше  <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -107,11 +119,11 @@
 				    				</a>
 			    				</div>
 			    				<div class="text px-md-4 px-lg-5 half pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Dessert</span><span class="ml-auto pl-3">March 01, 2018</span></p>
-	    							<h3><a href="single.html">Tasty &amp; Delicious Foods</a></h3>
-	    							<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">March 01, 2018</span></p>
+	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p>Ширина флага составляет три пятых его длины. Диаметр лучистого диска составляет три пятых ширины флага. Соотношение диаметров солнечного и лучистого дисков - три к пяти. Диаметр тюндюка составляет половину диаметра лучистого диска.
 </p>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Читать больше  <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -136,10 +148,10 @@
         	<div class="col-lg-3">
         		<div class="sidebar-wrap">
 	        		<div class="sidebar-box p-4 about text-center ftco-animate">
-			          <h2 class="heading mb-4">About Me</h2>
+			          <h2 class="heading mb-4">О нас</h2>
 			          <img src="/static/images/author.jpg" class="img-fluid" alt="Colorlib Template">
 			          <div class="text pt-4">
-			          	<p>Hi! My name is <strong>Cathy Deon</strong>, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+			          	<p>Привет! Меня зовут <strong>SoNoon</strong>, Мы SoNoon.kg представляем вам нашу страну в полном виде. Пока не надо всю инормацию. Имейте в виду есть информацию. Хорошо подумай брат не не подажди подажди. Я слушал такие слова на лекции. ЭЭЭ Эржан вставай. Саламалейкум на работу пора.</p>
 			          </div>
 	        		</div>
 	        		<div class="sidebar-box p-4 ftco-animate">
@@ -151,26 +163,26 @@
 	              </form>
 	            </div>
 	            <div class="sidebar-box categories text-center ftco-animate">
-			          <h2 class="heading mb-4">Categories</h2>
+			          <h2 class="heading mb-4">Категории</h2>
 			          <ul class="category-image">
 			          	<li>
 			          		<a href="#" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/category-1.jpg);">
 			          			<div class="text">
-			          				<h3>Foods</h3>
+			          				<h3>Горы</h3>
 			          			</div>
 			          		</a>
 			          	</li>
 			          	<li>
 			          		<a href="#" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/category-2.jpg);">
 			          			<div class="text">
-			          				<h3>Lifestyle</h3>
+			          				<h3>Жизнь кыргызов</h3>
 			          			</div>
 			          		</a>
 			          	</li>
 			          	<li>
 			          		<a href="#" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/category-2.jpg);">
 			          			<div class="text">
-			          				<h3>Others</h3>
+			          				<h3>Другое</h3>
 			          			</div>
 			          		</a>
 			          	</li>
@@ -188,8 +200,8 @@
         <div class="container">
           <div class="row d-flex justify-content-center">
             <div class="col-md-8 text-wrap text-center heading-section ftco-animate">
-              <h2 class="mb-4"><span>Subcribe to our Newsletter</span></h2>
-              <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+              <h2 class="mb-4"><span>Подписывайтесь на нас</span></h2>
+              <p>Мы отличная команда</p>
               <div class="row d-flex justify-content-center mt-4 mb-4">
                 <div class="col-md-8">
                   <form action="#" class="subscribe-form">

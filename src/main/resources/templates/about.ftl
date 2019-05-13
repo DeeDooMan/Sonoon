@@ -73,9 +73,9 @@
             <div class="col-sm-6 col-md-6 col-lg-3 py-4 text d-flex align-items-center ftco-animate">
                 <div class="text-2 py-5 px-4">
                     <p class="mb-5"><a href="https://vimeo.com/45830194" class="btn-custom popup-vimeo">Watch Video <span class="ion-ios-play ml-4"></span></a></p>
-                    <h1 class="mb-5">Roger <br> Bosch</h1>
-                    <p class="mb-md-5">some text.</p>
-                    <span class="signature">Roger.Bosch</span>
+                    <h1 class="mb-5">Кыргызская <br> Республика</h1>
+                    <p class="mb-md-5">Государство на северо-востоке Центральной Азии. Расположено в пределах Памиро-Алая на юго-западе и Тянь-Шаня — на северо-востоке. Граничит — с Казахстаном, Таджикистаном, Узбекистаном  и Китаем.</p>
+                    <span class="signature">ABBAJABASKAA</span>
                 </div>
             </div>
         </div>

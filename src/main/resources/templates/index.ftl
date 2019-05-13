@@ -11,8 +11,8 @@
             <div class="text d-flex align-items-center ftco-animate">
             	<div class="text-2 pb-lg-5 mb-lg-4 px-4 px-md-5">
 		          	<h3 class="subheading mb-3">Популярные публикации</h3>
-		            <h1 class="mb-5">Любовь вкуса &amp; Вкусные блюда</h1>
-		            <p class="mb-md-5">Небольшая река по имени Дуден протекает мимо их места и снабжает ее необходимой регелиалией.</p>
+		            <h1 class="mb-5">Любовь к стране &amp; Патриоты</h1>
+		            <p class="mb-md-5">DEEDOOMAN</p>
 		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
               </div>
             </div>
@@ -30,8 +30,8 @@
             <div class="text d-flex align-items-center ftco-animate">
             	<div class="text-2 pb-lg-5 mb-lg-4 px-4 px-md-5">
 		          	<h3 class="subheading mb-3">Популярные публикации</h3>
-		            <h1 class="mb-5">Я блоггер &amp; Я люблю блюда</h1>
-		            <p class="mb-md-5">Небольшая река по имени Дуден протекает мимо их места и снабжает ее необходимой регелиалией.</p>
+		            <h1 class="mb-5">Я кыргыз &amp; Я люблю свою страну</h1>
+		            <p class="mb-md-5">Отдых на Иссык-Куле - это прозрачный горный воздух и лазурная гладь чистейшего озера в сочетании с развитой туристической инфраструктурой и изумительно красивой природой вокруг! </p>
 		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
 	            </div>
             </div>
@@ -55,8 +55,8 @@
     					<div class="img img-big d-flex align-items-end" style="background-image: url(/static/images/image_2.jpg);">
     						<div class="overlay"></div>
     						<div class="text">
-    							<span class="subheading">Еда</span>
-    							<h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
+    							<span class="subheading">Новости</span>
+    							<h3><a href="single.html">Интересно &amp; Познавательно</a></h3>
     							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
     						</div>
 	    				</div>
@@ -70,9 +70,9 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апереля, 2019</span></p>
-	    							<h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -82,9 +82,9 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше<span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -94,8 +94,8 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -106,9 +106,9 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Вкусно &amp; Вкусная еда</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -124,7 +124,7 @@
         	<div class="col-lg-9">
         		<div class="row">
 		          <div class="col-md-12 heading-section ftco-animate">
-		            <h2 class="mb-4"><span>Featured Posts</span></h2>
+		            <h2 class="mb-4"><span>Популярные публикации</span></h2>
 		          </div>
 		        </div>
         		<div class="row">
@@ -132,9 +132,9 @@
     						<div class="blog-entry">
 		    					<a href="single.html" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="#">Вкусно &amp; Вкусная еда</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="#">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -142,9 +142,9 @@
     						<div class="blog-entry">
 		    					<a href="single.html" class="img-2"><img src="/static/images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="#">Вкусно &amp; Вкусная еда</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="#">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -152,9 +152,9 @@
     						<div class="blog-entry">
 		    					<a href="single.html" class="img-2"><img src="/static/images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Десерт</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
 	    							<h3><a href="#">Вкусно &amp; Вкусная еда</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Read More <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -167,7 +167,7 @@
 			          <h2 class="heading mb-4">Про меня</h2>
 			          <img src="/static/images/author.jpg" class="img-fluid" alt="Colorlib Template">
 			          <div class="text pt-4">
-			          	<p>Привет, меня зовут <strong>SONOON</strong>, some text</p>
+			          	<p>Привет, меня зовут <strong>SONOON</strong>, Мы SoNoon.kg представляем вам нашу страну в полном виде. Пока не надо всю инормацию. Имейте в виду есть информацию. Хорошо подумай брат не не подажди подажди. Я слушал такие слова на лекции. ЭЭЭ Эржан вставай. Саламалейкум на работу пора.</p>
 			          </div>
 	        		</div>
 	        		<div class="sidebar-box p-4 ftco-animate">
@@ -191,10 +191,10 @@
 
 	        <div class="col-sm-6 col-md-6 col-lg-3 py-4 text d-flex align-items-center ftco-animate">
 	        	<div class="text-2 py-5 px-4">
-	          	<p class="mb-5"><a href="https://vimeo.com/45830194" class="btn-custom popup-vimeo">Watch Video <span class="ion-ios-play ml-4"></span></a></p>
-	            <h1 class="mb-5">Roger <br> Bosch</h1>
-	            <p class="mb-md-5">some text</p>
-	            <span class="signature">Roger.Bosch</span>
+	          	<p class="mb-5"><a href="https://vimeo.com/45830194" class="btn-custom popup-vimeo">Посмотреть видео <span class="ion-ios-play ml-4"></span></a></p>
+	            <h1 class="mb-5">SoNoon <br> Team</h1>
+	            <p class="mb-md-5">ABBAJABASKAA</p>
+	            <span class="signature">интересно</span>
 	          </div>
 	        </div>
     		</div>
@@ -216,8 +216,8 @@
 		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
 		    						<div class="overlay"></div>
 		    						<div class="text">
-		    							<span class="subheading">Еда</span>
-		    							<h3><a href="#">содержание</a></h3>
+		    							<span class="subheading">SoNoon</span>
+		    							<h3><a href="#">Мы отличная команда </a></h3>
 		    							<p class="mb-0"><a href="#" class="btn-custom">читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 		    						</div>
 			    				</div>
@@ -228,8 +228,8 @@
 		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
 		    						<div class="overlay"></div>
 		    						<div class="text">
-		    							<span class="subheading">Стиль Жизни</span>
-		    							<h3><a href="#">Белая и красная керамика</a></h3>
+		    							<span class="subheading">Жизнь кыргызов</span>
+		    							<h3><a href="#">Кочевой народ</a></h3>
 		    							<p class="mb-0"><a href="#" class="btn-custom">читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 		    						</div>
 			    				</div>
@@ -245,14 +245,14 @@
 			          	<li>
 			          		<a href="Еда.html" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/category-1.jpg);">
 			          			<div class="text">
-			          				<h3>Еда</h3>
+			          				<h3>Горы</h3>
 			          			</div>
 			          		</a>
 			          	</li>
 			          	<li>
 			          		<a href="Стиль жизни.html" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/category-2.jpg);">
 			          			<div class="text">
-			          				<h3>Стиль жизни</h3>
+			          				<h3>Кыргызы</h3>
 			          			</div>
 			          		</a>
 			          	</li>
@@ -281,7 +281,7 @@
     				<div class="row justify-content-start pb-3">
 		          <div class="col-md-12 heading-section ftco-animate">
 		            <h2 class="mb-4">Про истории</h2>
-		            <p>some text</p>
+		            <p>Кыргызстан состоит из 9 административно-территориальных единиц — Чуйская область, Таласская область, Иссык-Кульская область, Нарынская область, Джалал-Абадская область, Ошская область,  Баткенская область, город Ош и город Бишкек. Областные центры — Талас, Каракол, Нарын, Джалал-Абад, Ош, Баткен.</p>
 		          </div>
 		        </div>
 		    		<div class="row">
@@ -297,7 +297,7 @@
 		            <div class="block-18 text-center py-5 bg-light mb-4">
 		              <div class="text">
 		                <strong class="number" data-number="200">0</strong>
-		                <span>Еда</span>
+		                <span>Горы</span>
 		              </div>
 		            </div>
 		          </div>
@@ -305,7 +305,7 @@
 		            <div class="block-18 text-center py-5 bg-light mb-4">
 		              <div class="text">
 		                <strong class="number" data-number="300">0</strong>
-		                <span>Стиль жизни</span>
+		                <span>Жизнь кыргызов</span>
 		              </div>
 		            </div>
 		          </div>
@@ -313,7 +313,7 @@
 		            <div class="block-18 text-center py-5 bg-light mb-4">
 		              <div class="text">
 		                <strong class="number" data-number="40">0</strong>
-		                <span>Happy Customers</span>
+		                <span>Счастливые пользователи</span>
 		              </div>
 		            </div>
 		          </div>

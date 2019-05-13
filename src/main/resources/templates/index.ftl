@@ -288,32 +288,32 @@
 		          <div class="col-md-6 justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center py-5 bg-light mb-4">
 		              <div class="text">
-		                <strong class="number" data-number="10">0</strong>
-		                <span>Годы опыта</span>
+		                <strong class="number" data-number="7">0</strong>
+		                <span>Области</span>
 		              </div>
 		            </div>
 		          </div>
 		          <div class="col-md-6 justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center py-5 bg-light mb-4">
 		              <div class="text">
-		                <strong class="number" data-number="200">0</strong>
-		                <span>Горы</span>
+		                <strong class="number" data-number="6332739">0</strong>
+		                <span>Численность населения</span>
 		              </div>
 		            </div>
 		          </div>
 		          <div class="col-md-6 justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center py-5 bg-light mb-4">
 		              <div class="text">
-		                <strong class="number" data-number="300">0</strong>
-		                <span>Жизнь кыргызов</span>
+		                <strong class="number" data-number="31">0</strong>
+		                <span>Города</span>
 		              </div>
 		            </div>
 		          </div>
 		          <div class="col-md-6 justify-content-center counter-wrap ftco-animate">
 		            <div class="block-18 text-center py-5 bg-light mb-4">
 		              <div class="text">
-		                <strong class="number" data-number="40">0</strong>
-		                <span>Счастливые пользователи</span>
+		                <strong class="number" data-number="453">0</strong>
+		                <span>Айылный аймак</span>
 		              </div>
 		            </div>
 		          </div>

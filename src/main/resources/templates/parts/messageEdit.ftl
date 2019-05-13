@@ -1,5 +1,6 @@
 <#include "security.ftl">
 
+<div class="container">
 <#if isEditor>
     <a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">
     Обновить предложение
@@ -7,12 +8,13 @@
 <div class="collapse" id="collapseExample">
     <div class="form-group mt-3">
         <form method="post" enctype="multipart/form-data">
-            <div class="form-group">
-                <input type="text" class="form-control" name="text" placeholder="Введите новые данные" />
-            </div>
-            <div class="form-group">
-                            <input type="text" class="form-control" name="tag" placeholder="Введите новые данные">
+        <div class="form-group">
+                            <input type="text" class="form-control" name="tag" value="${message.tag}" />
                         </div>
+            <div class="form-group">
+                <input type="text" class="form-control" id="exampleFormControlTextarea1" rows="60" name="text" value="${message.text}" />
+            </div>
+
             <div class="form-group">
                 <div class="custom-file">
                     <input type="file" name="file" id="customFile">
@@ -28,3 +30,4 @@
     </div>
 </div>
 </#if>
+</div>

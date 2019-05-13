@@ -9,9 +9,11 @@
             <img src="/img/${message.filename}" class="img-fluid" alt="Colorlib Template">
         </#if>
 
-        <div class="text pt-3">
+        <div class="text pt-3" style="white-space: nowrap overflow: hidden">
             <h3><i>${message.tag}</i></h3>
-            <h4><span>${message.text}</span></h4>
+            <p style="white-space: nowrap; overflow: hidden;
+             padding: 5px;
+                text-overflow: ellipsis"><span>${message.text}</span></p>
 
         </div>
 

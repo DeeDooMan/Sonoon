@@ -2,9 +2,9 @@
 
 <@c.page>
 <div class="container">
-User editor
+<a class="py-2 d-block">Изменение данных</a>
 
-<form action="/user" method="post">
+<form action="/user" method="post" class="py-2 d-block">
     <input type="text" name="username" value="${user.username}">
     <#list roles as role>
     <div>

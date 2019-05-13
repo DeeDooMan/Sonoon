@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row d-flex">
             <div class="col-md-6 d-flex">
-                <div class="img d-flex align-self-stretch" style="background-image:url(static/images/about.jpg);"></div>
+                <div class="img d-flex align-self-stretch" style="background-image:url(images/about.jpg);"></div>
             </div>
             <div class="col-md-6 pl-md-5 py-5">
                 <div class="row justify-content-start pb-3">
@@ -68,7 +68,7 @@
 <section class="ftco-section ftco-no-pt ftco-section-about ftco-no-pb bg-darken">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-sm-6 col-md-6 col-lg-9 order-md-last img py-5" style="background-image: url(static/images/bg_3.jpg);"></div>
+            <div class="col-sm-6 col-md-6 col-lg-9 order-md-last img py-5" style="background-image: url(images/bg_3.jpg);"></div>
 
             <div class="col-sm-6 col-md-6 col-lg-3 py-4 text d-flex align-items-center ftco-animate">
                 <div class="text-2 py-5 px-4">

@@ -2,7 +2,7 @@
 
 <@c.page>
 <div class="container">
-User editor
+Изменение данных
 
 <form action="/user" method="post">
     <input type="text" name="username" value="${user.username}">

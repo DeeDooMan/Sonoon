@@ -53,7 +53,7 @@
                         <span class="icon-map-signs"></span>
                     </div>
                     <h3 class="mb-4">Адресс</h3>
-                    <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+                    <p>Малдыбаева 34-б</p>
                 </div>
             </div>
             <div class="col-md-3 d-flex">
@@ -62,7 +62,7 @@
                         <span class="icon-phone2"></span>
                     </div>
                     <h3 class="mb-4">Номер для связи</h3>
-                    <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
+                    <p><a href="tel://1234567920">+996777663440</a></p>
                 </div>
             </div>
             <div class="col-md-3 d-flex">
@@ -71,7 +71,7 @@
                         <span class="icon-paper-plane"></span>
                     </div>
                     <h3 class="mb-4">Почта</h3>
-                    <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+                    <p><a href="mailto:info@yoursite.com">ainchik.2.17@gmail.com</a></p>
                 </div>
             </div>
             <div class="col-md-3 d-flex">
@@ -80,7 +80,7 @@
                         <span class="icon-globe"></span>
                     </div>
                     <h3 class="mb-4">Сайт</h3>
-                    <p><a href="#">yoursite.com</a></p>
+                    <p><a href="#">sonoonweb.herokuapp.com</a></p>
                 </div>
             </div>
         </div>
@@ -94,7 +94,7 @@
             <div class="row d-flex justify-content-center">
                 <div class="col-md-8 text-wrap text-center heading-section ftco-animate">
                     <h2 class="mb-4"><span>Подписывайтесь на нас</span></h2>
-                    <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>
+                    <p>Президент Кыргызской Республики — ЖЭЭНБЕКОВ Сооронбай Шарипович</p>
                     <div class="row d-flex justify-content-center mt-4 mb-4">
                         <div class="col-md-8">
                             <form action="#" class="subscribe-form">

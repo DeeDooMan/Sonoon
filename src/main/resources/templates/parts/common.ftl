@@ -35,7 +35,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Истории</h2>
+              <h2 class="ftco-heading-2">Связаться с нами через</h2>
 
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
@@ -49,25 +49,11 @@
               <h2 class="ftco-heading-2">Информация</h2>
               <ul class="list-unstyled">
                 <li><a href="#" class="py-2 d-block">Условия пользования</a></li>
-                <li><a href="#" class="py-2 d-block">Про истории</a></li>
-                <li><a href="#" class="py-2 d-block">Политика конфиденциальности</a></li>
-                <li><a href="#" class="py-2 d-block">Справка</a></li>
-                <li><a href="#" class="py-2 d-block">Реклама с нами</a></li>
+
               </ul>
             </div>
           </div>
-          <div class="col-md">
-             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Категории</h2>
-              <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">Еда</a></li>
-                <li><a href="#" class="py-2 d-block">Ресторан</a></li>
-                <li><a href="#" class="py-2 d-block">Десерт</a></li>
-                <li><a href="#" class="py-2 d-block">Стиль жизни</a></li>
-                <li><a href="#" class="py-2 d-block">Рецепты</a></li>
-              </ul>
-            </div>
-          </div>
+
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
             	<h2 class="ftco-heading-2">У вас есть вопросы?</h2>

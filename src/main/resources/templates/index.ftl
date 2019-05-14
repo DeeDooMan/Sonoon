@@ -13,7 +13,6 @@
 		          	<h3 class="subheading mb-3">Популярные публикации</h3>
 		            <h1 class="mb-5">Любовь к стране &amp; Патриоты</h1>
 		            <p class="mb-md-5">DEEDOOMAN</p>
-		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
               </div>
             </div>
 
@@ -32,7 +31,6 @@
 		          	<h3 class="subheading mb-3">Популярные публикации</h3>
 		            <h1 class="mb-5">Я кыргыз &amp; Я люблю свою страну</h1>
 		            <p class="mb-md-5">Отдых на Иссык-Куле - это прозрачный горный воздух и лазурная гладь чистейшего озера в сочетании с развитой туристической инфраструктурой и изумительно красивой природой вокруг! </p>
-		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
 	            </div>
             </div>
 
@@ -56,8 +54,8 @@
     						<div class="overlay"></div>
     						<div class="text">
     							<span class="subheading">Новости</span>
-    							<h3><a href="single.html">Интересно &amp; Познавательно</a></h3>
-    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+    							<h3><a href="/single">Интересно &amp; Познавательно</a></h3>
+    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
     						</div>
 	    				</div>
     				</div>
@@ -66,49 +64,49 @@
     				<div class="row">
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
+		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
 	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="/single">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
+		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
 	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше<span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="/single">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше<span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_4.jpg);">
+		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_4.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
 	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="/single">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_5.jpg);">
+		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_5.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
 	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="/single">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -130,31 +128,31 @@
         		<div class="row">
         			<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
+		    					<a href="/single" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
 	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
 	    							<h3><a href="#">Красиво &amp; Высокие горы</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="/single" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img-2"><img src="/static/images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
+		    					<a href="/single" class="img-2"><img src="/static/images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
 	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
 	    							<h3><a href="#">Красиво &amp; Высокие горы</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="/single" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img-2"><img src="/static/images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
+		    					<a href="/single" class="img-2"><img src="/static/images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
 	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
 	    							<h3><a href="#">Вкусно &amp; Вкусная еда</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="/single" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>

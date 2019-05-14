@@ -20,9 +20,6 @@
 
 <section class="ftco-section">
 
-<div class="container">
-<#include "parts/messageList.ftl"/>
-
 </div>
 
 </section>

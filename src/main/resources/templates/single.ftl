@@ -6,8 +6,8 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5 text-center">
-            <h1 class="mb-3 bread">Article Single</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Article Single<i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-3 bread">Статьи</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Домой <i class="ion-ios-arrow-forward"></i></a></span> <span>Статьи<i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
@@ -17,32 +17,40 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 order-lg-last ftco-animate">
-            <h2 class="mb-3">It is a long established fact a reader be distracted</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, eius mollitia suscipit, quisquam doloremque distinctio perferendis et doloribus unde architecto optio laboriosam porro adipisci sapiente officiis nemo accusamus ad praesentium? Esse minima nisi et. Dolore perferendis, enim praesentium omnis, iste doloremque quia officia optio deserunt molestiae voluptates soluta architecto tempora.</p>
+            <h2 class="mb-3">Фестиваль «Кыргызстан — страна горных лыж и зимнего отдыха!»</h2>
+            <p>2 февраля 2019 года прошел Десятый, юбилейный, ежегодный благотворительный туристический Фестиваль «Кыргызстан — страна горных лыж и зимнего отдыха!» </p>
             <p>
-              <img src="/static/images/image_6.jpg" alt="" class="img-fluid">
+              <img src="/static/images/blog-9.jpg" alt="" class="img-fluid">
             </p>
-            <p>Molestiae cupiditate inventore animi, maxime sapiente optio, illo est nemo veritatis repellat sunt doloribus nesciunt! Minima laborum magni reiciendis qui voluptate quisquam voluptatem soluta illo eum ullam incidunt rem assumenda eveniet eaque sequi deleniti tenetur dolore amet fugit perspiciatis ipsa, odit. Nesciunt dolor minima esse vero ut ea, repudiandae suscipit!</p>
-            <h2 class="mb-3 mt-5">#2. Creative WordPress Themes</h2>
-            <p>Temporibus ad error suscipit exercitationem hic molestiae totam obcaecati rerum, eius aut, in. Exercitationem atque quidem tempora maiores ex architecto voluptatum aut officia doloremque. Error dolore voluptas, omnis molestias odio dignissimos culpa ex earum nisi consequatur quos odit quasi repellat qui officiis reiciendis incidunt hic non? Debitis commodi aut, adipisci.</p>
+            <p>Начался Фестиваль с краткой официальной части: перед гостями выступили Директор Департамента туризма Максат Дамир уулу, Руководитель Секретариата Совета по развитию бизнеса и инвестициям при Правительстве Кыргызской Республики Таалайбек Койчуманов и Генеральный директор Горнолыжного комплекса «ЗиЛ» Акбар Рыскулов. Несмотря на то, что эта часть называлась официальной, выступления получились очень простыми и теплыми, благодаря царившей на мероприятии настоящей фестивальной атмосфере.</p>
+            <p>Затем началась развлекательно-спортивная часть Фестиваля. Ведущие, Egor Panshyn из Event-Ассоциация «BOOM Studio» и Аскат Сеитбеков из Секретариата Совета по развитию бизнеса и инвестициям при Правительстве Кыргызской Республики (Investment Council), провели зажигательную развлекательную программу с веселыми конкурсами.
+В программе прозвучали вокальные номера от участников проекта «Асман. 2 сезон» Салидина Салиева и Урмат Токомбаев. Урмат при этом выступал, даже несмотря на недавно полученную травму руки, что ничуть не сказалось на великолепном качестве исполнения песенных композиций.
+В завершающей части Фестиваля были подведены итоги соревнований по скоростному спуску на сноубордах и лыжах, организованных Союз Пешеходного туризма Кыргызстана TUK.KG. А самым ярким событием, конечно же, стала благотворительная лотерея, в распространении билетов которой принял самое активное участие заместитель министра экономики Эльдар Абакиров, оказавшийся на Фестивале как активный сторонник активного образа жизни.
+В ходе реализации билетов благотворительной лотереи было собрано более 150000 сом! Все денежные средства как и с прошлых Фестивалей, будут отправлены на благотворительные цели: на этот раз они будут направлены в Элим барсыңбы? Коомдук кайрымдуулук фондуи ОО «Рука в Руке».
+В следующем, 2020 году, Фестиваль «Кыргызстан – страна горных лыж и зимнего отдыха» будет обязательно реализован вновь! Потому что целями Фестиваля являются:
+— продвижение Кыргызстана, как страны зимних видов спорта, отдыха и туризма,
+— популяризация здорового и активного образа жизни среди граждан Кыргызской Республики,
+— а также оказание благотворительной помощи социально-уязвимым слоям населения.
+Организаторы:
+— Департамент туризма при МКИТ КР
+— Investment Council (Секретариат Совета по развитию бизнеса и инвестициям при Правительстве КР)
+— International Business Council (Международный деловой совет)
+— Бизнес Ассоциация JIA
+— TUK.KG
+— AmCham Kyrgyz Republic
+— ОО «Рука в Руке»
+Организационная поддержка: Event-Ассоциация «BOOM Studio»
+</p>
+            <h2 class="mb-3 mt-5">#2. Дунганская мечеть в Караколе</h2>
+            <p>Это один из самых "молодых" архитектурных памятников на территории Кыргызстана и один из самых самобытных.
+Возводили мечеть более 30 мастеров: резчики по дереву, каменщики, мастера-кровельщики во главе с мастером Чжоу Сы. В 1907 году строители приступили к заготовке материалов, которыми были тянь-шаньская ель, карагач и местный тополь, для отделки использовался орех. Подготовительная работа длилась около трех лет.
+</p>
             <p>
-              <img src="/static/images/image_4.jpg" alt="" class="img-fluid">
+              <img src="/static/images/blog-4.jpg" alt="" class="img-fluid">
             </p>
-            <p>Quisquam esse aliquam fuga distinctio, quidem delectus veritatis reiciendis. Nihil explicabo quod, est eos ipsum. Unde aut non tenetur tempore, nisi culpa voluptate maiores officiis quis vel ab consectetur suscipit veritatis nulla quos quia aspernatur perferendis, libero sint. Error, velit, porro. Deserunt minus, quibusdam iste enim veniam, modi rem maiores.</p>
-            <p>Odit voluptatibus, eveniet vel nihil cum ullam dolores laborum, quo velit commodi rerum eum quidem pariatur! Quia fuga iste tenetur, ipsa vel nisi in dolorum consequatur, veritatis porro explicabo soluta commodi libero voluptatem similique id quidem? Blanditiis voluptates aperiam non magni. Reprehenderit nobis odit inventore, quia laboriosam harum excepturi ea.</p>
-            <p>Adipisci vero culpa, eius nobis soluta. Dolore, maxime ullam ipsam quidem, dolor distinctio similique asperiores voluptas enim, exercitationem ratione aut adipisci modi quod quibusdam iusto, voluptates beatae iure nemo itaque laborum. Consequuntur et pariatur totam fuga eligendi vero dolorum provident. Voluptatibus, veritatis. Beatae numquam nam ab voluptatibus culpa, tenetur recusandae!</p>
-            <p>Voluptas dolores dignissimos dolorum temporibus, autem aliquam ducimus at officia adipisci quasi nemo a perspiciatis provident magni laboriosam repudiandae iure iusto commodi debitis est blanditiis alias laborum sint dolore. Dolores, iure, reprehenderit. Error provident, pariatur cupiditate soluta doloremque aut ratione. Harum voluptates mollitia illo minus praesentium, rerum ipsa debitis, inventore?</p>
+            <p>Мечеть в форме пагоды прекрасно вписалась в живописный местный ландшафт. Окрашенное в яркие цвета: красный, зеленый и желтый, с рельефами, изображающими мифических драконов и фениксов, сооружение до сих пор является образцом китайской храмовой архитектуры начала XX века.</p>
+            <p>Вообще, в Караколе три архитектурные достопримечательности. Это музей Пржевальского, дунганская мечеть и Троицкая церковь. Церковь расположена в месте, похожем на российские уезды XIX века.</p>
 
-            
-            <div class="about-author d-flex p-4 bg-light">
-              <div class="bio mr-5">
-                <img src="/static/images/person_1.jpg" alt="Image placeholder" class="img-fluid mb-4">
-              </div>
-              <div class="desc">
-                <h3>George Washington</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!</p>
-              </div>
-            </div>
           </div> <!-- .col-md-8 -->
           <div class="col-lg-4 sidebar pr-lg-5 ftco-animate">
             <div class="sidebar-box">
@@ -70,9 +78,9 @@
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(/static/images/image_1.jpg);"></a>
                 <div class="text">
-                  <h3><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                  <h3><a href="#">Каждый год 5 марта в Кыргызстане отмечают день ак-калпака. В этот день по всей стране можно увидеть много мужчин (и даже иногда женщин) в национальном головном уборе. По случаю праздника Kloop.kg подготовил подробный видеогид о калпаке.</a></h3>
                   <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> February 12, 2019</a></div>
+                    <div><a href="#"><span class="icon-calendar"></span> Февраль 12, 2019</a></div>
                     <div><a href="#"><span class="icon-person"></span> Admin</a></div>
                     <div><a href="#"><span class="icon-chat"></span> 19</a></div>
                   </div>
@@ -81,9 +89,9 @@
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(/static/images/image_2.jpg);"></a>
                 <div class="text">
-                  <h3><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                  <h3><a href="#">Флора Кыргызстана определяется высотой, на которой произрастает тот или иной вид: различные растения можно найти на разных горных высотах.</a></h3>
                   <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> February 12, 2019</a></div>
+                    <div><a href="#"><span class="icon-calendar"></span> Февраль 12, 2019</a></div>
                     <div><a href="#"><span class="icon-person"></span> Admin</a></div>
                     <div><a href="#"><span class="icon-chat"></span> 19</a></div>
                   </div>
@@ -92,9 +100,9 @@
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(/static/images/image_3.jpg);"></a>
                 <div class="text">
-                  <h3><a href="#">Even the all-powerful Pointing has no control about the blind texts</a></h3>
+                  <h3><a href="#">Культурное наследие кыргызского народа очень многообразно, однако и в этом разнообразии особо выделяется такой символ кыргызской культуры, как юрта (кырг. – боз уй). </a></h3>
                   <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> February 12, 2019</a></div>
+                    <div><a href="#"><span class="icon-calendar"></span> Февраль 12, 2019</a></div>
                     <div><a href="#"><span class="icon-person"></span> Admin</a></div>
                     <div><a href="#"><span class="icon-chat"></span> 19</a></div>
                   </div>
@@ -104,10 +112,7 @@
 
 
 
-            <div class="sidebar-box ftco-animate">
-              <h3 class="heading mb-4">Название</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!</p>
-            </div>
+
           </div>
 
         </div>

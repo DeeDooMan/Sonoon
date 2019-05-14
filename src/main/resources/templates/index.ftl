@@ -189,7 +189,6 @@
 
 	        <div class="col-sm-6 col-md-6 col-lg-3 py-4 text d-flex align-items-center ftco-animate">
 	        	<div class="text-2 py-5 px-4">
-	          	<p class="mb-5"><a href="https://vimeo.com/45830194" class="btn-custom popup-vimeo">Посмотреть видео <span class="ion-ios-play ml-4"></span></a></p>
 	            <h1 class="mb-5">SoNoon <br> Team</h1>
 	            <p class="mb-md-5">ABBAJABASKAA</p>
 	            <span class="signature">интересно</span>
@@ -211,7 +210,7 @@
         		<div class="row">
         			<div class="col-md-6 col-lg-6 ftco-animate">
 		    				<div class="blog-entry">
-		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
+		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(/static/images/111.jpg);">
 		    						<div class="overlay"></div>
 		    						<div class="text">
 		    							<span class="subheading">SoNoon</span>

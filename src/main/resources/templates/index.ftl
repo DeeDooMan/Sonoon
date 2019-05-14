@@ -13,7 +13,6 @@
 		          	<h3 class="subheading mb-3">Популярные публикации</h3>
 		            <h1 class="mb-5">Любовь к стране &amp; Патриоты</h1>
 		            <p class="mb-md-5">DEEDOOMAN</p>
-		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
               </div>
             </div>
 
@@ -32,7 +31,6 @@
 		          	<h3 class="subheading mb-3">Популярные публикации</h3>
 		            <h1 class="mb-5">Я кыргыз &amp; Я люблю свою страну</h1>
 		            <p class="mb-md-5">Отдых на Иссык-Куле - это прозрачный горный воздух и лазурная гладь чистейшего озера в сочетании с развитой туристической инфраструктурой и изумительно красивой природой вокруг! </p>
-		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
 	            </div>
             </div>
 

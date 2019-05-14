@@ -14,7 +14,7 @@
     </div>
 </section>
 
-<div class="container">
+<div class="container" style="margin-top:10px">
 <#include "parts/messageAdd.ftl" />
 </div>
 
@@ -38,15 +38,15 @@
                         </div>
                     </div>
                     <div class="sidebar-box p-4 ftco-animate">
-                        <form action="#" class="search-form">
-                            <div class="form-group">
-                                <span class="icon icon-search"></span>
-                                <input type="text" class="form-control" placeholder="Search">
-                            </div>
-                        </form>
+                         <form method="get" action="/foods" class="search-form">
+	                        <div class="form-group">
+	                         <span class="icon icon-search"></span>
+	                         <input type="text" name="filter" class="form-control" value="${filter?ifExists}" placeholder="Поиск">
+	                        </div>
+	                     </form>
                     </div>
                 </div>
             </div>
         </div>
-
+</section>
 </@c.page>

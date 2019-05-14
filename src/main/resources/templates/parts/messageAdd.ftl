@@ -14,7 +14,7 @@
              </div>
 
             <div class="form-group">
-                <input type="text" class="form-control" name="text" placeholder="Введите текст" />
+            <textarea type="text" cols="30" rows="10" name="text" class="form-control" placeholder="Введите текст"></textarea>
             </div>
 
 

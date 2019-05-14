@@ -12,7 +12,8 @@
                             <input type="text" class="form-control" name="tag" value="<#if message??>${message.tag}</#if>" placeholder="Введите заголовок" />
                         </div>
             <div class="form-group">
-                <input type="text" class="form-control" id="exampleFormControlTextarea1" rows="60" name="text" value="<#if message??>${message.text}</#if>" placeholder="Введите текст"/>
+             <textarea type="text" cols="30" rows="10" name="text" class="form-control" ><#if message??>${message.text}</#if></textarea>
+
             </div>
 
             <div class="form-group">

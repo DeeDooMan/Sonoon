@@ -1,8 +1,7 @@
 <#import "parts/common.ftl" as c>
 
 <@c.page>
-    <div class="container">
-<h5>${username}</h5>
+    <h5>${username}</h5>
 ${message?ifExists}
     <form method="post">
     <div class="form-group row">
@@ -20,5 +19,4 @@ ${message?ifExists}
     <input type="hidden" name="_csrf" value="${_csrf.token}" />
     <button class="btn btn-primary" type="submit">Save</button>
 </form>
-</div>
 </@c.page>

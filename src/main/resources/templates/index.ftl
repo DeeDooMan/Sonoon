@@ -149,10 +149,10 @@
 			          </div>
 	        		</div>
 	        		<div class="sidebar-box p-4 ftco-animate">
-	              <form action="#" class="search-form">
+	              <form method="get" action="/foods" class="search-form">
 	                <div class="form-group">
 	                  <span class="icon icon-search"></span>
-	                  <input type="text" class="form-control" placeholder="Search">
+	                  <input type="text" name="filter" class="form-control" value="${filter?ifExists}" placeholder="Поиск">
 	                </div>
 	              </form>
 	            </div>

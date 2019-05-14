@@ -10,9 +10,8 @@
 
             <div class="text d-flex align-items-center ftco-animate">
             	<div class="text-2 pb-lg-5 mb-lg-4 px-4 px-md-5">
-		          	<h3 class="subheading mb-3">Популярные публикации</h3>
-		            <h1 class="mb-5">Любовь к стране &amp; Патриоты</h1>
-		            <p class="mb-md-5">DEEDOOMAN</p>
+		            <h1 class="mb-5">Кыргызстан &amp; Факты о флаге</h1>
+		            <p class="mb-md-5"></p>
 		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
               </div>
             </div>
@@ -29,9 +28,8 @@
 
             <div class="text d-flex align-items-center ftco-animate">
             	<div class="text-2 pb-lg-5 mb-lg-4 px-4 px-md-5">
-		          	<h3 class="subheading mb-3">Популярные публикации</h3>
-		            <h1 class="mb-5">Я кыргыз &amp; Я люблю свою страну</h1>
-		            <p class="mb-md-5">Отдых на Иссык-Куле - это прозрачный горный воздух и лазурная гладь чистейшего озера в сочетании с развитой туристической инфраструктурой и изумительно красивой природой вокруг! </p>
+		            <h1 class="mb-5">На Токтогульской ГЭС приступают ко второй фазе реабилитации&amp; </h1>
+		            <p class="mb-md-5">В рамках второй фазы реабилитации Токтогульской ГЭС ОАО «Электрические станции» заключило с совместным предприятием GE Hydro (Франция) и GE Renewables (Швейцария) контракт на модернизацию ГЭС на сумму 104 млн долларов США. </p>
 		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
 	            </div>
             </div>
@@ -55,7 +53,7 @@
     					<div class="img img-big d-flex align-items-end" style="background-image: url(/static/images/image_2.jpg);">
     						<div class="overlay"></div>
     						<div class="text">
-    							<span class="subheading">Новости</span>
+    							<span class="subheading">Флора</span>
     							<h3><a href="single.html">Интересно &amp; Познавательно</a></h3>
     							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
     						</div>
@@ -70,8 +68,8 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Фото</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Кыргызский &amp; Ак калпак</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -82,8 +80,8 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Фото</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Кыргызская юрта боз уй как символ нации &amp; </a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше<span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -94,8 +92,8 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Фото</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Каньоны Конорчак &amp; Кыргызстан, Бишкек</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -106,8 +104,8 @@
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="single.html">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Фото</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="single.html">Вечерний Бишкек &amp; Гороскоп</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -132,8 +130,8 @@
     						<div class="blog-entry">
 		    					<a href="single.html" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="#">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Фото</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="#">Камни &amp; Петроглифы в Чолпон-Ате</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -142,8 +140,8 @@
     						<div class="blog-entry">
 		    					<a href="single.html" class="img-2"><img src="/static/images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="#">Красиво &amp; Высокие горы</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Фото</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="#">Башня Бурана &amp; Достопримечательности</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -152,8 +150,8 @@
     						<div class="blog-entry">
 		    					<a href="single.html" class="img-2"><img src="/static/images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
-	    							<h3><a href="#">Вкусно &amp; Вкусная еда</a></h3>
+	    							<p class="meta d-flex"><span class="pr-3">Фото</span><span class="ml-auto pl-3">11 Апреля, 2019</span></p>
+	    							<h3><a href="#">Таш-Рабат, Кыргызстан &amp; Легенда</a></h3>
 	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
@@ -192,9 +190,9 @@
 	        <div class="col-sm-6 col-md-6 col-lg-3 py-4 text d-flex align-items-center ftco-animate">
 	        	<div class="text-2 py-5 px-4">
 	          	<p class="mb-5"><a href="https://vimeo.com/45830194" class="btn-custom popup-vimeo">Посмотреть видео <span class="ion-ios-play ml-4"></span></a></p>
-	            <h1 class="mb-5">SoNoon <br> Team</h1>
-	            <p class="mb-md-5">ABBAJABASKAA</p>
-	            <span class="signature">интересно</span>
+	            <h1 class="mb-5">Кыргызстан Республика</h1>
+
+	            <span class="signature">Информация</span>
 	          </div>
 	        </div>
     		</div>
@@ -216,8 +214,8 @@
 		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
 		    						<div class="overlay"></div>
 		    						<div class="text">
-		    							<span class="subheading">SoNoon</span>
-		    							<h3><a href="#">Мы отличная команда </a></h3>
+		    							<span class="subheading">Кыргызский &amp; Ак калпак</span>
+		    							<h3><a href="#">Каждый год 5 марта в Кыргызстане отмечают день ак-калпака. В этот день по всей стране можно увидеть много мужчин (и даже иногда женщин) в национальном головном уборе. По случаю праздника Kloop.kg подготовил подробный видеогид о калпаке.</a></h3>
 		    							<p class="mb-0"><a href="#" class="btn-custom">читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 		    						</div>
 			    				</div>
@@ -228,8 +226,8 @@
 		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
 		    						<div class="overlay"></div>
 		    						<div class="text">
-		    							<span class="subheading">Жизнь кыргызов</span>
-		    							<h3><a href="#">Кочевой народ</a></h3>
+		    							<span class="subheading">Кыргызская юрта боз уй</span>
+		    							<h3><a href="#">Культурное наследие кыргызского народа очень многообразно, однако и в этом разнообразии особо выделяется такой символ кыргызской культуры, как юрта (кырг. – боз уй). Юрта – переносное жилище кочевников – с давних времен являлась объектом многочисленных исследований историков, этнографов, культурологов.</a></h3>
 		    							<p class="mb-0"><a href="#" class="btn-custom">читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 		    						</div>
 			    				</div>

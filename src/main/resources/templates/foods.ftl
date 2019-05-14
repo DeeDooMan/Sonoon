@@ -25,8 +25,8 @@
                         <div class="blog-entry">
                             <a href="single.html" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
                             <div class="text pt-3">
-                                <p class="meta d-flex"><span class="pr-3">Горы</span><span class="ml-auto pl-3">Март 01, 2018</span></p>
-                                <h3><a href="single.html">Красиво &amp; Красивые горы</a></h3>
+                                <p class="meta d-flex"><span class="pr-3">Фото</span><span class="ml-auto pl-3">Март 01, 2018</span></p>
+                                <h3><a href="single.html">Камни &amp; Петроглифы в Чолпон-Ате</a></h3>
                                 <p class="mb-0"><a href="/single" class="btn btn-black py-2">Подробнее <span class="icon-arrow_forward ml-4"></span></a></p>
                             </div>
                         </div>

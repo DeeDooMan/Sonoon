@@ -52,7 +52,7 @@
                     <div class="icon d-flex align-items-center justify-content-center">
                         <span class="icon-map-signs"></span>
                     </div>
-                    <h3 class="mb-4">Адресс</h3>
+                    <h3 class="mb-4">Адрес</h3>
                     <p>Малдыбаева 34-б</p>
                 </div>
             </div>

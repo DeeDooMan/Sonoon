@@ -16,7 +16,7 @@
 		<section class="ftco-section">
       <div class="container">
         <div class="row">
-          < class="col-lg-8 order-lg-last ftco-animate">
+          <div class="col-lg-8 order-lg-last ftco-animate">
             <h2 class="mb-3">Фестиваль «Кыргызстан — страна горных лыж и зимнего отдыха!»</h2>
             <p>2 февраля 2019 года прошел Десятый, юбилейный, ежегодный благотворительный туристический Фестиваль «Кыргызстан — страна горных лыж и зимнего отдыха!» </p>
             <p>

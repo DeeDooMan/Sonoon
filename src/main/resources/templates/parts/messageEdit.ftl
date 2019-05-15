@@ -9,10 +9,11 @@
     <div class="form-group mt-3">
         <form method="post" enctype="multipart/form-data">
         <div class="form-group">
-                            <input type="text" class="form-control" name="tag" value="${message.tag}" />
+                            <input type="text" class="form-control" name="tag" value="<#if message??>${message.tag}</#if>" placeholder="Введите заголовок" />
                         </div>
             <div class="form-group">
-                <input type="text" class="form-control" id="exampleFormControlTextarea1" rows="60" name="text" value="${message.text}" />
+             <textarea type="text" cols="30" rows="10" name="text" class="form-control" ><#if message??>${message.text}</#if></textarea>
+
             </div>
 
             <div class="form-group">

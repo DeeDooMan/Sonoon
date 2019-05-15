@@ -10,9 +10,7 @@
 
             <div class="text d-flex align-items-center ftco-animate">
             	<div class="text-2 pb-lg-5 mb-lg-4 px-4 px-md-5">
-		            <h1 class="mb-5">Кыргызстан &amp; Факты о флаге</h1>
-		            <p class="mb-md-5"></p>
-		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
+
               </div>
             </div>
 
@@ -28,9 +26,7 @@
 
             <div class="text d-flex align-items-center ftco-animate">
             	<div class="text-2 pb-lg-5 mb-lg-4 px-4 px-md-5">
-		            <h1 class="mb-5">На Токтогульской ГЭС приступают ко второй фазе реабилитации&amp; </h1>
-		            <p class="mb-md-5">В рамках второй фазы реабилитации Токтогульской ГЭС ОАО «Электрические станции» заключило с совместным предприятием GE Hydro (Франция) и GE Renewables (Швейцария) контракт на модернизацию ГЭС на сумму 104 млн долларов США. </p>
-		            <p><a href="#" class="btn btn-black px-3 px-md-4 py-3">Читать больше <span class="icon-arrow_forward ml-lg-4"></span></a></p>
+
 	            </div>
             </div>
 
@@ -53,9 +49,7 @@
     					<div class="img img-big d-flex align-items-end" style="background-image: url(/static/images/image_2.jpg);">
     						<div class="overlay"></div>
     						<div class="text">
-    							<span class="subheading">Флора</span>
-    							<h3><a href="single.html">Интересно &amp; Познавательно</a></h3>
-    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+
     						</div>
 	    				</div>
     				</div>
@@ -71,42 +65,41 @@
 
 	    							<h3><a href="/single">Кыргызский &amp; Ак калпак</a></h3>
 	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
+		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
 
-	    							<h3><a href="single.html">Кыргызская юрта боз уй как символ нации &amp; </a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше<span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_4.jpg);">
+		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_4.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
 
-	    							<h3><a href="single.html">Каньоны Конорчак &amp; Кыргызстан, Бишкек</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_5.jpg);">
+		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_5.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
+
 
 	    							<h3><a href="/single">Вечерний Бишкек &amp; Гороскоп</a></h3>
 	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+
 	    						</div>
 		    				</div>
     					</div>
@@ -128,31 +121,48 @@
         		<div class="row">
         			<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
+
 		    					<a href="/single8" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
 
 	    							<h3><a href="#">Камни &amp; Петроглифы в Чолпон-Ате</a></h3>
 	    							<p class="mb-0"><a href="/single8" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+
+		    					<a href="/single" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
+			    				<div class="text pt-3">
+
+
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
+
 		    					<a href="/single9" class="img-2"><img src="/static/images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
 
 	    							<h3><a href="#">Башня Бурана &amp; Достопримечательности</a></h3>
 	    							<p class="mb-0"><a href="/single9" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+
+		    					<a href="/single" class="img-2"><img src="/static/images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
+			    				<div class="text pt-3">
+
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
+
 		    					<a href="/single10" class="img-2"><img src="/static/images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
 
 	    							<h3><a href="#">Таш-Рабат, Кыргызстан &amp; Легенда</a></h3>
 	    							<p class="mb-0"><a href="/single10" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+
+		    					<a href="/single" class="img-2"><img src="/static/images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
+			    				<div class="text pt-3">
+
+
 	    						</div>
 		    				</div>
     					</div>
@@ -169,10 +179,10 @@
 			          </div>
 	        		</div>
 	        		<div class="sidebar-box p-4 ftco-animate">
-	              <form action="#" class="search-form">
+	              <form method="get" action="/foods" class="search-form">
 	                <div class="form-group">
 	                  <span class="icon icon-search"></span>
-	                  <input type="text" class="form-control" placeholder="Search">
+	                  <input type="text" name="filter" class="form-control" value="${filter?ifExists}" placeholder="Поиск">
 	                </div>
 	              </form>
 	            </div>

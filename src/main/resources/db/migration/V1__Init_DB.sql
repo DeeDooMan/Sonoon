@@ -4,7 +4,7 @@ create table message (
     id int8 not null,
     filename varchar(255),
     tag varchar(255),
-    text varchar(2048) not null,
+    text varchar(10485760) not null,
     user_id int8,
     active boolean,
     primary key (id)

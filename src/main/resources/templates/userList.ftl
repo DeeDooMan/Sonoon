@@ -1,8 +1,9 @@
 <#import "parts/common.ftl" as c>
 
-
 <@c.page>
 <div class="container">
+<a class="btn btn-primary" href="/newUserAdd">Добавить нового пользователья</a>
+<br>
     <h5>Список пользователей</h5>
     <table class="table table-bordered table-dark">
     <thead>

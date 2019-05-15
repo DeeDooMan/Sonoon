@@ -38,17 +38,17 @@
     					<div class="col-md-6 col-lg-12 ftco-animate">
     						<div class="blog-entry d-lg-flex">
     							<div class="half">
-			    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(images/image_2.jpg);">
+			    					<a href="/single15" class="img d-flex align-items-end" style="background-image: url(images/image_2.jpg);">
 			    						<div class="overlay"></div>
 				    				</a>
 			    				</div>
 			    				<div class="text px-md-4 px-lg-5 half pt-3">
 	    							<p class="meta d-flex"><span class="pr-3">Флора</span>
-	    							<h3><a href="single.html">Интересно &amp; Познавательно</a></h3>
+	    							<h3><a href="/single15">Интересно &amp; Познавательно</a></h3>
 	    							<p>Флора
 Флора Кыргызстана определяется высотой, на которой произрастает тот или иной вид: различные растения можно найти на разных горных высотах.
 </p>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-primary">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="/single15" class="btn btn-primary">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>

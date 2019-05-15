@@ -1,9 +1,12 @@
 <#macro page>
+<!DOCTYPE>
+<html lang="en">
+<head>
     <title>Sonoon.KG</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="shortcut icon" href="/static/images/Bomb.png" type="image/png">
+    <link rel="shortcut icon" href="/static/Bomb.png" type="image/png">
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,400i,700,700i,900,900i" rel="stylesheet">
@@ -48,7 +51,7 @@
             <div class="ftco-footer-widget mb-4 ml-md-5">
               <h2 class="ftco-heading-2">Информация</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">Условия пользования</a></li>
+                <li><a href="/single14" class="py-2 d-block">Условия пользования</a></li>
 
               </ul>
             </div>

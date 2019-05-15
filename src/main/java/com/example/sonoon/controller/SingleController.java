@@ -67,8 +67,5 @@ public class SingleController {
     public String single15(Map<String, Object> model) {
         return "single15";
     }
-    @GetMapping("/single16")
-    public String single16(Map<String, Object> model) {
-        return "single16";
-    }
+
 }

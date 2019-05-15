@@ -12,7 +12,6 @@
             	<div class="text-2 pb-lg-5 mb-lg-4 px-4 px-md-5">
 		          	<h3 class="subheading mb-3">Популярные публикации</h3>
 		            <h1 class="mb-5">Любовь к стране</h1>
-		            <p class="mb-md-5">DEEDOOMAN</p>
               </div>
             </div>
 
@@ -50,12 +49,12 @@
     		<div class="row">
     			<div class="col-md-6 order-md-last col-lg-6 ftco-animate">
     				<div class="blog-entry">
-    					<div class="img img-big d-flex align-items-end" style="background-image: url(/static/images/image_2.jpg);">
+    					<div class="img img-big d-flex align-items-end" style="background-image: url(/static/images/djety.jpg);">
     						<div class="overlay"></div>
     						<div class="text">
     							<span class="subheading">Новости</span>
-    							<h3><a href="/single">Интересно &amp; Познавательно</a></h3>
-    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+    							<h3><a href="/single15">Учщелье Джети-Огуз &amp; </a></h3>
+    							<p class="mb-0"><a href="/single15" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
     						</div>
 	    				</div>
     				</div>
@@ -75,34 +74,34 @@
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/bozuy" class="img d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
+		    					<a href="/single1" class="img d-flex align-items-end" style="background-image: url(/static/images/grigor.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<h3><a href="/bozuy">Кыргызский Боз-Уй &amp;</a></h3>
-	    							<p class="mb-0"><a href="/bozuy" class="btn-custom">Читать больше<span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="/single1">Григорьевское ущелье &amp;</a></h3>
+	    							<p class="mb-0"><a href="/single1" class="btn-custom">Читать больше<span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_4.jpg);">
+		    					<a href="/single2" class="img d-flex align-items-end" style="background-image: url(/static/images/alakul.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<h3><a href="/single">Кыргызские каньоны &amp; </a></h3>
-	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="/single2">Озеро Ала-куль &amp; </a></h3>
+	    							<p class="mb-0"><a href="/single2" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_5.jpg);">
+		    					<a href="/single3" class="img d-flex align-items-end" style="background-image: url(/static/images/kyrgyz.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<h3><a href="/single">столица Бишкек &amp; </a></h3>
-	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="/single3">Государственный Флаг &amp; </a></h3>
+	    							<p class="mb-0"><a href="/single3" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -124,28 +123,28 @@
         		<div class="row">
         			<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/single" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
+		    					<a href="/single4" class="img-2"><img src="/static/images/ges.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<h3><a href="#">Саймалуу-Таш &amp; </a></h3>
-	    							<p class="mb-0"><a href="/single" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="#">Токтогульская ГЭС &amp; </a></h3>
+	    							<p class="mb-0"><a href="/single4" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/single" class="img-2"><img src="/static/images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
+		    					<a href="/single7" class="img-2"><img src="/static/images/bg_5.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<h3><a href="#">башня Бурана &amp; </a></h3>
-	    							<p class="mb-0"><a href="/single" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="#">Мертвое озеро &amp; </a></h3>
+	    							<p class="mb-0"><a href="/single7" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/single" class="img-2"><img src="/static/images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
+		    					<a href="/single8" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
-	    							<h3><a href="#">Таш-Рабат &amp; </a></h3>
-	    							<p class="mb-0"><a href="/single" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="#">Петроглифы в Чолпон-Ате &amp; </a></h3>
+	    							<p class="mb-0"><a href="/single8" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -162,10 +161,10 @@
 			          </div>
 	        		</div>
 	        		<div class="sidebar-box p-4 ftco-animate">
-	              <form action="#" class="search-form">
+	              <form action="/foods" class="search-form">
 	                <div class="form-group">
 	                  <span class="icon icon-search"></span>
-	                  <input type="text" class="form-control" placeholder="Search">
+	                  <input type="text" class="form-control" placeholder="Поиск">
 	                </div>
 	              </form>
 	            </div>
@@ -203,24 +202,24 @@
         		<div class="row">
         			<div class="col-md-6 col-lg-6 ftco-animate">
 		    				<div class="blog-entry">
-		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
+		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(/static/images/blog-2.jpg);">
 		    						<div class="overlay"></div>
 		    						<div class="text">
 		    							<span class="subheading">SoNoon</span>
-		    							<h3><a href="#">Самый большой в мире калпак </a></h3>
-		    							<p class="mb-0"><a href="#" class="btn-custom">читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+		    							<h3><a href="/single9">Башня Бурана </a></h3>
+		    							<p class="mb-0"><a href="/single9" class="btn-custom">читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 		    						</div>
 			    				</div>
 		    				</div>
 		    			</div>
 		    			<div class="col-md-6 col-lg-6 ftco-animate">
 		    				<div class="blog-entry">
-		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
+		    					<div class="img img-big img-big-2 d-flex align-items-end" style="background-image: url(/static/images/blog-3.jpg);">
 		    						<div class="overlay"></div>
 		    						<div class="text">
 		    							<span class="subheading">SoNoon</span>
-		    							<h3><a href="#">Кочевой народ</a></h3>
-		    							<p class="mb-0"><a href="#" class="btn-custom">читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+		    							<h3><a href="/single10">Таш-Рабат</a></h3>
+		    							<p class="mb-0"><a href="/single10" class="btn-custom">читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 		    						</div>
 			    				</div>
 		    				</div>
@@ -233,16 +232,16 @@
 			          <h2 class="heading mb-4">Доп.статьи</h2>
 			          <ul class="category-image">
 			          	<li>
-			          		<a href="Еда.html" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/category-1.jpg);">
+			          		<a href="/single11" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/blog-4.jpg);">
 			          			<div class="text">
-			          				<h3>Времена года в КР</h3>
+			          				<h3>Дунганская мечеть в Караколе</h3>
 			          			</div>
 			          		</a>
 			          	</li>
 			          	<li>
-			          		<a href="Стиль жизни.html" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/category-2.jpg);">
+			          		<a href="/single13" class="img d-flex align-items-center justify-content-center text-center" style="background-image: url(/static/images/blog-6.jpg);">
 			          			<div class="text">
-			          				<h3>Редкие животные</h3>
+			          				<h3>Озеро Кёль-Суу</h3>
 			          			</div>
 			          		</a>
 			          	</li>

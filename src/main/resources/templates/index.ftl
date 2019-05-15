@@ -145,7 +145,7 @@
 			          <h2 class="heading mb-4">Про меня</h2>
 			          <img src="/static/images/author.jpg" class="img-fluid" alt="Colorlib Template">
 			          <div class="text pt-4">
-			          	<p>Привет, меня зовут <strong>SONOON</strong>, Мы SoNoon.kg представляем вам нашу страну в полном виде. Пока не надо всю инормацию. Имейте в виду есть информацию. Хорошо подумай брат не не подажди подажди. Я слушал такие слова на лекции. ЭЭЭ Эржан вставай. Саламалейкум на работу пора.</p>
+			          	<p>Привет, меня зовут <strong>SONOON</strong>, Мы SoNoon.kg представляем вам нашу страну в полном виде.</p>
 			          </div>
 	        		</div>
 	        		<div class="sidebar-box p-4 ftco-animate">

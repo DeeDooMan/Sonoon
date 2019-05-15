@@ -75,12 +75,12 @@
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
+		    					<a href="/bozuy" class="img d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
-	    							<h3><a href="/single">Кыргызский Боз-Уй &amp;</a></h3>
-	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше<span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="/bozuy">Кыргызский Боз-Уй &amp;</a></h3>
+	    							<p class="mb-0"><a href="/bozuy" class="btn-custom">Читать больше<span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>

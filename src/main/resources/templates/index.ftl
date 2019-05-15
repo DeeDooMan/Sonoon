@@ -12,7 +12,6 @@
             	<div class="text-2 pb-lg-5 mb-lg-4 px-4 px-md-5">
 		          	<h3 class="subheading mb-3">Популярные публикации</h3>
 		            <h1 class="mb-5">Любовь к стране</h1>
-		            <p class="mb-md-5">DEEDOOMAN</p>
               </div>
             </div>
 
@@ -162,10 +161,10 @@
 			          </div>
 	        		</div>
 	        		<div class="sidebar-box p-4 ftco-animate">
-	              <form action="#" class="search-form">
+	              <form action="/foods" class="search-form">
 	                <div class="form-group">
 	                  <span class="icon icon-search"></span>
-	                  <input type="text" class="form-control" placeholder="Search">
+	                  <input type="text" class="form-control" placeholder="Поиск">
 	                </div>
 	              </form>
 	            </div>

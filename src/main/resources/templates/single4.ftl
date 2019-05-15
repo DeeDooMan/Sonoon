@@ -6,8 +6,8 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5 text-center">
-            <h1 class="mb-3 bread">Статьи</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Домой <i class="ion-ios-arrow-forward"></i></a></span> <span>Статьи<i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-3 bread">Токтогульская ГЭС</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="/">Домой <i class="ion-ios-arrow-forward"></i></a></span> <span>Статьи<i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
@@ -20,7 +20,7 @@
             <h2 class="mb-3">На Токтогульской ГЭС приступают ко второй фазе реабилитации</h2>
 
             <p>
-              <img src="/static/images/bg_2.jpg" alt="" class="img-fluid">
+              <img src="/static/images/ges.jpg" alt="" class="img-fluid">
             </p>
             <p>В рамках второй фазы реабилитации Токтогульской ГЭС ОАО «Электрические станции» заключило с совместным предприятием GE Hydro (Франция) и GE Renewables (Швейцария) контракт на модернизацию ГЭС на сумму 104 млн долларов США.
 Как сообщает Нацэнергохолдинг, контракт подразумевает замену агрегатов на ГЭС, которые должны значительно увеличить мощность электростанции. В Нацэнергохолдинге ожидают, что дополнительная мощность обеспечит электричеством примерно 200 тысяч домохозяйств в течение года.

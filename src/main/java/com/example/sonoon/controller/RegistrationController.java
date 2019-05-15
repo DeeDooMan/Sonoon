@@ -57,4 +57,31 @@ public class RegistrationController {
 
         return "login";
     }
+    @GetMapping("/newUserAdd")
+    public String newUserReg() {
+        return "newUserAdd";
+    }
+
+    @PostMapping("/newUserAdd")
+    public String newUserAdd(@Valid User user, BindingResult bindingResult, Model model) {
+
+        if (user.getPassword() != null && !user.getPassword().equals(user.getPassword2())) {
+            model.addAttribute("passwordError", "Passwords are different!");
+        }
+
+        if (bindingResult.hasErrors()) {
+            Map<String, String> errors = ControllerUtils.getErrors(bindingResult);
+
+            model.mergeAttributes(errors);
+
+            return "newUserAdd";
+        }
+
+        if (!userSevice.addUser(user)) {
+            model.addAttribute("usernameError", "User exists!");
+            return "newUserAdd";
+        }
+
+        return "redirect:/user";
+    }
 }

@@ -128,31 +128,31 @@
         		<div class="row">
         			<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
+		    					<a href="/single8" class="img-2"><img src="/static/images/blog-1.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
 
 	    							<h3><a href="#">Камни &amp; Петроглифы в Чолпон-Ате</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="/single8" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img-2"><img src="/static/images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
+		    					<a href="/single9" class="img-2"><img src="/static/images/blog-2.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
 
 	    							<h3><a href="#">Башня Бурана &amp; Достопримечательности</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="/single9" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
     					<div class="col-md-4 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img-2"><img src="/static/images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
+		    					<a href="/single10" class="img-2"><img src="/static/images/blog-3.jpg" class="img-fluid" alt="Colorlib Template"></a>
 			    				<div class="text pt-3">
 
 	    							<h3><a href="#">Таш-Рабат, Кыргызстан &amp; Легенда</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<p class="mb-0"><a href="/single10" class="btn btn-black py-2">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>

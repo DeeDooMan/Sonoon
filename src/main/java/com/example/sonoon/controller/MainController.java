@@ -157,6 +157,12 @@ public class MainController {
             messageRepo.save(message);
         return "redirect:/foods";}
 
+    @GetMapping("/neopublicovat/{id}")
+    public String neopublicovat(@PathVariable("id") Message message) {
+        message.setActive(false);
+        messageRepo.save(message);
+        return "redirect:/foods";}
+
     @GetMapping("/c/{id}")
     public String isAktiv(@PathVariable("id") Message message,Model model) {
             message.isActive();

@@ -20,10 +20,13 @@
             </p>
              <a href="/user-messages/${message.author.id}">${message.authorName}</a>
            <#if message.author.id == currentUserId>
-             <td  style="display: inline-block">
-                <p class="mb-0"><a class="btn btn-black py-2" href="/deleteMessage/${message.id}" onclick="return confirm('Вы уверены что хотите удалить это предложение?');">Удалить</a></p><br>
-                <p class="mb-0"><a class="btn btn-black py-2" href="/user-messages/${message.author.id}?message=${message.id}">Изменить</a></p><br>
-                <p class="mb-0"><a class="btn btn-black py-2" href="/opublicovat/${message.id}">Опубликовать</a></p>
+                     <h6><#if message.active>Опубликован<#else>Не опубликован</#if></h6>
+             <td align="left | center">
+                <p class="mb-0"><a class="btn btn-black py-2" href="/deleteMessage/${message.id}" onclick="return confirm('Вы уверены что хотите удалить это предложение?');">Удалить</a>
+                <a class="btn btn-black py-2" href="/user-messages/${message.author.id}?message=${message.id}">Изменить</a>
+                <a class="btn btn-black py-2" href="/opublicovat/${message.id}">Опубликовать</a>
+                <a class="btn btn-black py-2" href="/neopublicovat/${message.id}">Не опубликовать</a>
+                </p>
             </td>
            </#if>
     </#if>

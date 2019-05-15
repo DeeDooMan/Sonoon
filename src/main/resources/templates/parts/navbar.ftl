@@ -29,7 +29,7 @@
 	        </ul>
 	      </div>
 
-		<div class="navbar-text color-bk">${name}</div>
+		<div class="text">${name}</div>
 	      <#if user??>
 			<@l.logout />
 		  </#if>

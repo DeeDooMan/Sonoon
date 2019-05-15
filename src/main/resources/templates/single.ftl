@@ -58,33 +58,33 @@
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(/static/images/image_1.jpg);"></a>
                 <div class="text">
-                  <h3><a href="#">Каждый год 5 марта в Кыргызстане отмечают день ак-калпака. В этот день по всей стране можно увидеть много мужчин (и даже иногда женщин) в национальном головном уборе. По случаю праздника Kloop.kg подготовил подробный видеогид о калпаке.</a></h3>
+                  <h3><a href="/single">Каждый год 5 марта в Кыргызстане отмечают день ак-калпака. В этот день по всей стране можно увидеть много мужчин (и даже иногда женщин) в национальном головном уборе. По случаю праздника Kloop.kg подготовил подробный видеогид о калпаке.</a></h3>
                   <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Февраль 12, 2019</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                    <div><a href="/single"><span class="icon-calendar"></span> Февраль 12, 2019</a></div>
+                    <div><a href="/single"><span class="icon-person"></span></a></div>
+                    <div><a href="/single"><span class="icon-chat"></span></a></div>
                   </div>
                 </div>
               </div>
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(/static/images/image_2.jpg);"></a>
                 <div class="text">
-                  <h3><a href="#">Флора Кыргызстана определяется высотой, на которой произрастает тот или иной вид: различные растения можно найти на разных горных высотах.</a></h3>
+                  <h3><a href="/single3">Госурдаственный флаг Кыргызской Республики</a></h3>
                   <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Февраль 12, 2019</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                    <div><a href="/single3"><span class="icon-calendar"></span> Февраль 12, 2019</a></div>
+                    <div><a href="/single3"><span class="icon-person"></span></a></div>
+                    <div><a href="/single3"><span class="icon-chat"></span></a></div>
                   </div>
                 </div>
               </div>
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(/static/images/image_3.jpg);"></a>
                 <div class="text">
-                  <h3><a href="#">Культурное наследие кыргызского народа очень многообразно, однако и в этом разнообразии особо выделяется такой символ кыргызской культуры, как юрта (кырг. – боз уй). </a></h3>
+                  <h3><a href="/single9">Удивительная башня Бурана в городе Токмак </a></h3>
                   <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Февраль 12, 2019</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Admin</a></div>
-                    <div><a href="#"><span class="icon-chat"></span> 19</a></div>
+                    <div><a href="/single9"><span class="icon-calendar"></span> Февраль 12, 2019</a></div>
+                    <div><a href="/single9"><span class="icon-person"></span></a></div>
+                    <div><a href="/single9"><span class="icon-chat"></span></a></div>
                   </div>
                 </div>
               </div>

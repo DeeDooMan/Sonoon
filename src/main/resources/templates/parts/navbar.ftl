@@ -14,7 +14,6 @@
 	          <li class="nav-item active"><a href="/" class="nav-link">Домой</a></li>
 	          <li class="nav-item"><a href="/about" class="nav-link">О нас</a></li>
 	          <li class="nav-item"><a href="/foods" class="nav-link">Статьи</a></li>
-	          <li class="nav-item"><a href="/lifestyle" class="nav-link">Стиль жизни</a></li>
 	          <li class="nav-item"><a href="/contact" class="nav-link">Контакты</a></li>
 
 	          <#if isAdmin>

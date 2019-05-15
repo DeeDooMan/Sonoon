@@ -7,7 +7,7 @@
         <div class="row no-gutters slider-text align-items-end justify-content-center">
             <div class="col-md-9 ftco-animate pb-5 text-center">
                 <h1 class="mb-3 bread">О нас</h1>
-                <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Домой <i class="ion-ios-arrow-forward"></i></a></span> <span>About us<i class="ion-ios-arrow-forward"></i></span></p>
+                <p class="breadcrumbs"><span class="mr-2"><a href="/">Домой <i class="ion-ios-arrow-forward"></i></a></span> <span>About us<i class="ion-ios-arrow-forward"></i></span></p>
             </div>
         </div>
     </div>
@@ -68,7 +68,7 @@
 <section class="ftco-section ftco-no-pt ftco-section-about ftco-no-pb bg-darken">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-sm-6 col-md-6 col-lg-9 order-md-last img py-5" style="background-image: url(images/bg_3.jpg);"></div>
+            <div class="col-sm-6 col-md-6 col-lg-9 order-md-last img py-5" style="background-image: url(images/12345.jpg);"></div>
 
             <div class="col-sm-6 col-md-6 col-lg-3 py-4 text d-flex align-items-center ftco-animate">
                 <div class="text-2 py-5 px-4">

@@ -1,7 +1,7 @@
 <#import "parts/common.ftl" as c>
 <@c.page>
 
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('/static/images/bg_4.jpg');">
+  <section class="hero-wrap hero-wrap-2" style="background-image: url('/static/images/bg_4.jpg');">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -41,18 +41,9 @@
 — ОО «Рука в Руке»
 Организационная поддержка: Event-Ассоциация «BOOM Studio»
 </p>
-            <h2 class="mb-3 mt-5">#2. Дунганская мечеть в Караколе</h2>
-            <p>Это один из самых "молодых" архитектурных памятников на территории Кыргызстана и один из самых самобытных.
-Возводили мечеть более 30 мастеров: резчики по дереву, каменщики, мастера-кровельщики во главе с мастером Чжоу Сы. В 1907 году строители приступили к заготовке материалов, которыми были тянь-шаньская ель, карагач и местный тополь, для отделки использовался орех. Подготовительная работа длилась около трех лет.
-</p>
-            <p>
-              <img src="/static/images/blog-4.jpg" alt="" class="img-fluid">
-            </p>
-            <p>Мечеть в форме пагоды прекрасно вписалась в живописный местный ландшафт. Окрашенное в яркие цвета: красный, зеленый и желтый, с рельефами, изображающими мифических драконов и фениксов, сооружение до сих пор является образцом китайской храмовой архитектуры начала XX века.</p>
-            <p>Вообще, в Караколе три архитектурные достопримечательности. Это музей Пржевальского, дунганская мечеть и Троицкая церковь. Церковь расположена в месте, похожем на российские уезды XIX века.</p>
 
           </div> <!-- .col-md-8 -->
-          <div class="col-lg-4 sidebar pr-lg-5 ftco-animate">
+  <div class="col-lg-4 sidebar pr-lg-5 ftco-animate">
             <div class="sidebar-box">
               <form action="#" class="search-form">
                 <div class="form-group">
@@ -118,7 +109,7 @@
         </div>
       </div>
     </section> <!-- .section -->
-		
+
 
 
 </@c.page>

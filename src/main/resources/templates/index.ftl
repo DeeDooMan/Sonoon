@@ -58,7 +58,7 @@
     				<div class="row">
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
+		    					<a href="/single18" class="img d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
@@ -68,7 +68,7 @@
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
+		    					<a href="/single20" class="img d-flex align-items-end" style="background-image: url(/static/images/image_3.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
@@ -78,7 +78,7 @@
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_4.jpg);">
+		    					<a href="/single21" class="img d-flex align-items-end" style="background-image: url(/static/images/image_4.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
@@ -88,7 +88,7 @@
     					</div>
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_5.jpg);">
+		    					<a href="/single22" class="img d-flex align-items-end" style="background-image: url(/static/images/image_5.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">

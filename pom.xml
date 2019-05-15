@@ -98,13 +98,36 @@
         <!--</dependency>-->
     </dependencies>
 
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
-
-
     <build>
         <plugins>
+            <plugin>
+                <groupId>com.microsoft.azure</groupId>
+                <artifactId>azure-webapp-maven-plugin</artifactId>
+                <!-- check Maven Central for the latest version -->
+                <version>1.5.3</version>
+                <configuration>
+                    <schemaVersion>v2</schemaVersion>
+                    <resourceGroup>sonoongroup</resourceGroup>
+                    <appName>sonoonapp</appName>
+                    <region>West US</region>
+                    <runtime>
+                        <os>Windows</os>
+                        <javaVersion>jre8</javaVersion>
+                        <webContainer>tomcat 8.5</webContainer>
+                    </runtime>
+                    <deployment>
+                        <resources>
+                            <resource>
+                                <directory>C:\Users\BEKBULAT TASHBOLOTOV\Desktop\SoNoon/target</directory>
+                                <includes>
+                                    <include>*.war</include>
+                                </includes>
+                            </resource>
+                        </resources>
+                    </deployment>
+                </configuration>
+            </plugin>
+
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>

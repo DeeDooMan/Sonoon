@@ -64,13 +64,13 @@
     				<div class="row">
     					<div class="col-md-6 ftco-animate">
     						<div class="blog-entry">
-		    					<a href="single.html" class="img d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
+		    					<a href="/single" class="img d-flex align-items-end" style="background-image: url(/static/images/image_1.jpg);">
 		    						<div class="overlay"></div>
 			    				</a>
 			    				<div class="text pt-3">
 
-	    							<h3><a href="single.html">Кыргызский &amp; Ак калпак</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="/single">Кыргызский &amp; Ак калпак</a></h3>
+	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>
@@ -105,8 +105,8 @@
 			    				</a>
 			    				<div class="text pt-3">
 
-	    							<h3><a href="single.html">Вечерний Бишкек &amp; Гороскоп</a></h3>
-	    							<p class="mb-0"><a href="single.html" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
+	    							<h3><a href="/single">Вечерний Бишкек &amp; Гороскоп</a></h3>
+	    							<p class="mb-0"><a href="/single" class="btn-custom">Читать больше <span class="icon-arrow_forward ml-4"></span></a></p>
 	    						</div>
 		    				</div>
     					</div>

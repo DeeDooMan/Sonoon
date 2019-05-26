@@ -26,6 +26,11 @@
 			<#if user??>
 				<li class="nav-item"><a class="nav-link" href="/user/profile">Профиль</a></li>
             </#if>
+			<#if isAdmin>
+				<#elseif isEditor>
+			<#elseif user??>
+				<li class="nav-item"><a class="nav-link" href="/user/feedback">Обратная связь</a></li>
+			</#if>
 	        </ul>
 	      </div>
 

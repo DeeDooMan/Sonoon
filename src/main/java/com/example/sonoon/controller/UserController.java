@@ -1,15 +1,19 @@
 package com.example.sonoon.controller;
 
+import com.example.sonoon.domain.Feedback;
 import com.example.sonoon.domain.Role;
 import com.example.sonoon.domain.User;
 import com.example.sonoon.service.UserSevice;
+import com.example.sonoon.service.FeedbackService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
+import javax.validation.Valid;
 import java.util.Map;
 
 @Controller
@@ -18,6 +22,8 @@ public class UserController {
     @Autowired
     private UserSevice userSevice;
 
+    @Autowired
+    private FeedbackService feedbackService;
 
     @PreAuthorize("hasAuthority('ADMIN')")
     @GetMapping
@@ -46,6 +52,23 @@ public class UserController {
         userSevice.saveUser(user, username, form);
 
         return "redirect:/user";
+    }
+
+    @GetMapping("/feedback")
+    public String getFeedback(){
+        return "feedback";
+    }
+
+    @PostMapping("feedback")
+    public String sendFeedback(
+            @AuthenticationPrincipal User currentUser,
+            @RequestParam String absender,
+            @RequestParam String feedback,Model model) {
+        if (absender == null && absender.length() <= 0 || feedback == null && feedback.length() <= 0 ){
+            model.addAttribute("feedbackError", "Вы допустили ошибку! Введите предложение!");
+        }
+        feedbackService.sendMessage(new Feedback(absender, feedback, currentUser.getEmail()));
+        return "redirect:/user/feedback";
     }
 
     @GetMapping("profile")
